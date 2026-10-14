@@ -20,7 +20,7 @@ postavy:
   - Beatrice
 povinné: false
 ---
-**Alegorický epos** v troch častiach, ktorý stojí na prelome stredoveku a renesancie. Označený výkričníkom v učebnici Zmaturuj; od maturanta stačí poznať názov, autora a základné údaje.
+**Alegorický epos** v troch častiach, ktorý stojí na prelome stredoveku a renesancie. Nie je povinná; stačí poznať názov, autora a základné údaje.
 
 ## Kompozícia
 

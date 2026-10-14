@@ -20,7 +20,7 @@ Slovenská humanistická a renesančná literatúra (**1500 – 1650**) sa vyví
 ## Autori a diela
 
 > [!info] Značenie
-> ✏️ = podčiarknuté perom v učebnici Zmaturuj (stačí názov). Výkričníky pri slovenských autoroch nie sú.
+> ✏️ = podčiarknuté perom v učebnici Zmaturuj (stačí názov).
 
 | Oblasť | Autor | Dielo | Čo si pamätať |
 | --- | --- | --- | --- |

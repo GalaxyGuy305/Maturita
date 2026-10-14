@@ -21,7 +21,8 @@ Co potrebujeme vediet z literatury (Toto su dvolezite veci, nie vsetko):
 		1. Romeo a julia
 		2. Hamlet
 		3. Par komedii a tragedii (Staci nazov)
-	4. Ostatne zvyraznene veci v Zmaturuj aspon nazvy
+	4. Sonety pre Lauru (Petrarca)
+	5. Ostatne zvyraznene veci v Zmaturuj aspon nazvy
 
 Co potrebujeme vediet o diele (dvolezite veci):
 1. Autor

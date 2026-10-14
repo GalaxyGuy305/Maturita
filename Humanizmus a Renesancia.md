@@ -83,14 +83,14 @@ Obdobie sa začalo **objavmi a vynálezmi**: objavenie Ameriky, heliocentrický 
 
 | Dielo | Autor | Žáner | Krajina |
 | --- | --- | --- | --- |
-| ⭐ ❗ [[Sonety pre Lauru]] | [[Petrarca]] | [[Sonet]] | Taliansko |
-| ⭐ ❗ [[Dekameron]] | [[Boccaccio]] | [[Novela]] (rámcová) | Taliansko |
-| ⭐ ❗ [[Don Quijote]] | [[Cervantes]] | [[Román]] (paródia) | Španielsko |
+| ⭐ [[Sonety pre Lauru]] | [[Petrarca]] | [[Sonet]] | Taliansko |
+| ⭐ [[Dekameron]] | [[Boccaccio]] | [[Novela]] (rámcová) | Taliansko |
+| ⭐ [[Don Quijote]] | [[Cervantes]] | [[Román]] (paródia) | Španielsko |
 | ⭐ [[Romeo a Júlia]] | [[Shakespeare]] | [[Tragédia]] | Anglicko |
-| ⭐ ❗ [[Hamlet]] | [[Shakespeare]] | [[Tragédia]] | Anglicko |
+| ⭐ [[Hamlet]] | [[Shakespeare]] | [[Tragédia]] | Anglicko |
 | Pár komédií a tragédií od [[Shakespeare\|Shakespeara]] (stačí názov) | [[Shakespeare]] | [[Komédia]], [[Tragédia]] | Anglicko |
 
-❗ = výkričník v učebnici Zmaturuj pri danom diele (výkričníky sú pri konkrétnych dielach, nie pri celých stranách). Výkričník má aj [[Božská komédia]] (nie je povinná, stačí názov a základné údaje).
+[[Božská komédia]] nie je povinná, stačí názov a základné údaje.
 
 Ostatné zvýraznené veci v Zmaturuj (aspoň názvy) sú v celkoch: [[Európska humanistická a renesančná literatúra]] a [[Slovenská humanistická a renesančná literatúra]].
 

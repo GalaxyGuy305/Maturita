@@ -19,7 +19,7 @@ postavy:
   - Laura
 povinné: true
 ---
-Zbierka lyrických básní, ktorých názov u nás znie *Sonety pre Lauru* (v origináli **Spevník**). Povinné dielo. Označené výkričníkom v učebnici Zmaturuj (pozri [[Európska humanistická a renesančná literatúra]]).
+Zbierka lyrických básní, ktorých názov u nás znie *Sonety pre Lauru* (v origináli **Spevník**). Povinné dielo. Pozri aj [[Európska humanistická a renesančná literatúra]].
 
 ## Kompozícia
 

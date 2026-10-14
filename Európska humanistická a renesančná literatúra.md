@@ -25,20 +25,20 @@ Renesancia sa v Európe šírila postupne: **Taliansko** (prelom 13. – 14. st.
 ## Autori a diela
 
 > [!info] Značenie
-> ⭐ = povinné (z [[Requirementy]]) · ❗ = výkričník v učebnici Zmaturuj pri danom autorovi/diele · ✏️ = podčiarknuté perom (stačí názov)
+> ⭐ = povinné (z [[Requirementy]]) · ✏️ = podčiarknuté perom (stačí názov)
 
 | Národ | Autor | Dielo | Čo si pamätať |
 | --- | --- | --- | --- |
-| talianska | ❗ [[Dante]] | ❗ [[Božská komédia]] | [[Epos\|alegorický epos]]: Peklo, Očistec, Raj; tercíny; 3 × 33 spevov |
-| talianska | ❗ [[Petrarca]] | ⭐ ❗ [[Sonety pre Lauru]] (Spevník) | „otec humanizmu"; sonety o platonickej láske k Laure |
-| talianska | ❗ [[Boccaccio]] | ⭐ ❗ [[Dekameron]] | 100 noviel, 10 rozprávačov, 10 dní, mor |
+| talianska | [[Dante]] | [[Božská komédia]] | [[Epos\|alegorický epos]]: Peklo, Očistec, Raj; tercíny; 3 × 33 spevov |
+| talianska | [[Petrarca]] | ⭐ [[Sonety pre Lauru]] (Spevník) | „otec humanizmu"; sonety o platonickej láske k Laure |
+| talianska | [[Boccaccio]] | ⭐ [[Dekameron]] | 100 noviel, 10 rozprávačov, 10 dní, mor |
 | talianska | ✏️ [[Machiavelli]] | ✏️ Vladár; ✏️ Mandragora | politický spis; satirická komédia |
 | francúzska | ✏️ [[Villon]] | Malý testament; ✏️ Veľký testament | villonská [[Balada\|balada]]; „prekliaty básnik" |
 | francúzska | ✏️ [[Rabelais]] | ✏️ Gargantua a Pantagruel | satirický päťdielny román o obroch |
-| španielska | ❗ [[Cervantes]] | ⭐ ❗ [[Don Quijote]] | paródia na rytierske romány |
+| španielska | [[Cervantes]] | ⭐ [[Don Quijote]] | paródia na rytierske romány |
 | španielska | ✏️ Lope de Vega | ✏️ Fuente Ovejuna (Ovčí prameň) | prvá kolektívna dráma (dedinský ľud berie na seba vinu za smrť tyrana); „dráma plášťa a dýky", asi 2 000 hier |
 | anglická | ✏️ Geoffrey Chaucer | ✏️ Canterburské poviedky | cyklus 23 veršovaných príbehov pútnikov do Canterbury; inšpirovali ho Dante, Boccaccio, Petrarca |
-| anglická | ❗ [[Shakespeare]] | ⭐ ❗ [[Hamlet]], ⭐ [[Romeo a Júlia]] + ďalšie hry | najväčší dramatik; [[Alžbetínske divadlo]] |
+| anglická | [[Shakespeare]] | ⭐ [[Hamlet]], ⭐ [[Romeo a Júlia]] + ďalšie hry | najväčší dramatik; [[Alžbetínske divadlo]] |
 
 ## Súvislosti
 
