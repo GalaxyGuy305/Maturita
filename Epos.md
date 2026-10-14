@@ -5,11 +5,13 @@ druh: Epika
 obdobie:
   - "[[Staroveká literatúra]]"
   - "[[Stredoveká literatúra]]"
+  - "[[Humanizmus a Renesancia]]"
 diela:
   - "[[Epos o Gilgamešovi]]"
   - "[[Ilias]]"
   - "[[Odysea]]"
   - "[[Aeneis]]"
+  - "[[Božská komédia]]"
 ---
 
 ## Charakteristika
@@ -28,5 +30,5 @@ diela:
 
 - **hrdinský epos**: [[Epos o Gilgamešovi]] (najstarší hrdinský epos), [[Ilias]], [[Odysea]] ([[Homér]]); indická Rámájana
 - **umelý (umelecký) epos**: [[Aeneis]] ([[Vergílius]])
-- **stredoveký hrdinský/rytiersky epos** ([[Európska stredoveká literatúra]]): Pieseň o Rolandovi, Pieseň o Cidovi, Beowulf, Pieseň o Nibelungoch; **alegorický epos**: Božská komédia (Dante)
+- **stredoveký hrdinský/rytiersky epos** ([[Európska stredoveká literatúra]]): Pieseň o Rolandovi, Pieseň o Cidovi, Beowulf, Pieseň o Nibelungoch; **alegorický epos**: [[Božská komédia]] ([[Dante]]; prelom stredoveku a renesancie, [[Humanizmus a Renesancia]])
 - **Mahábhárata** – najrozsiahlejší epos svetovej literatúry ([[Orientálna literatúra]])

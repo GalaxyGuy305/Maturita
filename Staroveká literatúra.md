@@ -117,3 +117,5 @@ Staroveká literatúra zahŕňa najstaršie písomné pamiatky ľudstva: od vzni
 | 3. st. pr. n. l. | začiatky [[Rímska literatúra\|rímskej literatúry]], [[Plautus]] |
 | 1. st. pr. n. l. | [[Cicero]], Caesar, [[Vergílius]], [[Horácius]], [[Ovídius]] |
 | 1.–2. st. n. l. | Nový zákon ([[Biblia]]), Tacitus |
+
+Na antiku nadväzuje renesancia a humanizmus: [[Humanizmus a Renesancia]].

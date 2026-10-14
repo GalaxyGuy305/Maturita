@@ -91,3 +91,5 @@ Povinná je aj osobnosť ⭐ [[Konštantín a Metod]].
 | 13. st. | Anonymova kronika, Kronika Šimona z Kézy |
 | 1378 – 1524 | Žilinská mestská kniha |
 | 1465 – 1491 | Academia Istropolitana (Bratislava) |
+
+Na stredovek nadväzuje [[Humanizmus a Renesancia]] (prelom: [[Dante]], [[Božská komédia]]).

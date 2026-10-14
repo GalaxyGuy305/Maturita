@@ -24,7 +24,7 @@ Z európskej tvorby stredoveku sa zachovalo niekoľko známych diel. Z maturitn�
 | česká | Kosmas: Kronika česká | prvý kronikár |
 | česká | Dalimilova kronika | najstaršia česky písaná veršovaná kronika (začiatok 14. st.), autor anonymný |
 | česká | Jan Hus | kritik cirkvi (*Knížky o svatokupectví*), upálený 1415 |
-| talianska | Dante Alighieri: Božská komédia | alegorický epos |
+| talianska | [[Dante]]: [[Božská komédia]] | alegorický epos (prelom stredoveku a renesancie, pozri [[Humanizmus a Renesancia]]) |
 
 ## Ďalšie ukážky žánrov
 

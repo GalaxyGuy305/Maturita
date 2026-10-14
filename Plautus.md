@@ -17,7 +17,7 @@ diela:
 
 ## Život a tvorba
 
-Titus Maccius Plautus. Obľúbený predstaviteľ rímskej [[Komédia|komédie]]. Vo svojich hrách využíva iskrivý humor v dialógoch, vtip, fraškovitosť, hudobný sprievod. Jeho komédiami sa neskôr inšpirovali Molière (*Lakomec*), Shakespeare, Goldoni, Lessing.
+Titus Maccius Plautus. Obľúbený predstaviteľ rímskej [[Komédia|komédie]]. Vo svojich hrách využíva iskrivý humor v dialógoch, vtip, fraškovitosť, hudobný sprievod. Jeho komédiami sa neskôr inšpirovali Molière (*Lakomec*), [[Shakespeare]], Goldoni, Lessing.
 
 ## Najdôležitejšie diela
 

@@ -17,4 +17,4 @@ Filozof, najvšestrannejší učenec staroveku, žiak [[Platón|Platóna]]. Vych
 
 ## Najdôležitejšie diela
 
-- **Poetika** – rozprava o zásadách slovesného umenia. Stanovuje, že tragédia má konflikt a jeho tragické riešenie, protagonistu, primerané charaktery postáv, jednotu deja a spôsobuje **katarziu** (duševnú očistu). Pre drámu sa s ním spája zásada troch jednôt – miesta, času a deja. 🤖 Pozn.: tri jednoty v dnešnej podobe sformulovali až renesanční teoretici; Aristoteles v *Poetike* výslovne žiada len jednotu deja. Pozri [[Antická dráma]].
+- **Poetika** – rozprava o zásadách slovesného umenia. Stanovuje, že tragédia má konflikt a jeho tragické riešenie, protagonistu, primerané charaktery postáv, jednotu deja a spôsobuje **katarziu** (duševnú očistu). Pre drámu sa s ním spája zásada troch jednôt – miesta, času a deja. 🤖 Pozn.: tri jednoty v dnešnej podobe sformulovali až renesanční teoretici; Aristoteles v *Poetike* výslovne žiada len jednotu deja. Pozri [[Antická dráma]]. Renesancia sa k Aristotelovej *Poetike* a antickej tragédii vracia ([[Humanizmus a Renesancia]], [[Tragédia]]).

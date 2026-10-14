@@ -13,7 +13,15 @@ Co potrebujeme vediet z literatury (Toto su dvolezite veci, nie vsetko):
 	1. Veľká Morava:
 		1. Moravsko Panónske Legendy
 		2. Proglas
-	2. Konštantýn a Method
+	2. Konštantýn a Metod
+3. Humanizmus a Renesancia:
+	1. Dekameron
+	2. Don Quijote
+	3. Shakespeare
+		1. Romeo a julia
+		2. Hamlet
+		3. Par komedii a tragedii (Staci nazov)
+	4. Ostatne zvyraznene veci v Zmaturuj aspon nazvy
 
 Co potrebujeme vediet o diele (dvolezite veci):
 1. Autor

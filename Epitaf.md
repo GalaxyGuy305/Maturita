@@ -4,6 +4,7 @@ categories:
 druh: Lyrika
 obdobie:
   - "[[Staroveká literatúra]]"
+  - "[[Humanizmus a Renesancia]]"
 diela:
 ---
 
@@ -12,3 +13,4 @@ diela:
 - žáner spoločenskej lyriky
 - nápis na náhrobnom kameni, ktorý by mal vypovedať o dotyčnej osobe
 - môže to byť forma citátu, úryvku, celej básne
+- v renesancii: [[Villon]] – *Epitaf* (vlastný náhrobný nápis; pozri aj [[Balada]]); barokový epitaf v ľúbostnej básni

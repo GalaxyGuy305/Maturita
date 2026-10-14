@@ -24,3 +24,7 @@ Publius Vergilius Maro, básnik. Vo svojich dielach propagoval snahy o obrodu r�
 - [[Aeneis]] – umelecký epos o putovaní Aenea po skončení trójskej vojny
 - **Pastierske spevy (Bukolika)** – 10 eklog (idyl) podľa vzoru Teokrita
 - **Roľnícke spevy (Georgika)** – idealizácia dedinského života i mravných hodnôt
+
+## Súvislosti
+
+- v [[Božská komédia|Božskej komédii]] ([[Dante]], [[Humanizmus a Renesancia]]) je Danteho sprievodcom Peklom a Očistcom (symbol rozumu)

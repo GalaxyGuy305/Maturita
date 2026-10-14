@@ -43,3 +43,7 @@ Podľa [[Aristoteles|Aristotelovej]] *Poetiky*: dej (konflikt a jeho tragické r
 - [[Aristofanes]] – komédia
 
 Diela: [[Antigona]], [[Komédia o hrnci]]
+
+## Neskorší vplyv
+
+- renesancia znovuzrodila antickú tragédiu (sled úmrtí, katarzia, jednota miesta, času a deja): [[Shakespeare]] ([[Hamlet]], [[Romeo a Júlia]]), pozri [[Humanizmus a Renesancia]] a [[Alžbetínske divadlo]]

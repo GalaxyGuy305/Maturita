@@ -4,8 +4,11 @@ categories:
 druh: Dráma
 obdobie:
   - "[[Staroveká literatúra]]"
+  - "[[Humanizmus a Renesancia]]"
 diela:
   - "[[Antigona]]"
+  - "[[Hamlet]]"
+  - "[[Romeo a Júlia]]"
 ---
 
 ## Charakteristika
@@ -17,4 +20,4 @@ diela:
 
 ## Autori a príklady
 
-- [[Aischylos]] (zakladateľ), [[Sofokles]] ([[Antigona]], Kráľ Oidipus, Elektra), [[Euripides]] (Medea)
+- [[Aischylos]] (zakladateľ), [[Sofokles]] ([[Antigona]], Kráľ Oidipus, Elektra), [[Euripides]] (Medea); v renesancii [[Shakespeare]] ([[Hamlet]], [[Romeo a Júlia]], Othello, Kráľ Lear, Macbeth) – renesancia znovuzrodila antickú tragédiu ([[Alžbetínske divadlo]])

@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "9b6a7f6c7baf25c7",
+        "id": "a9add82393794984",
         "type": "tabs",
         "children": [
           {
-            "id": "48a7beb45f2a4f88",
+            "id": "6e5a1c91683ded33",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Moravsko-panónske legendy.md",
+                "file": "Literárne Obdobia.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Moravsko-panónske legendy"
+              "title": "Literárne Obdobia"
             }
           }
         ]
@@ -202,14 +202,23 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
+          },
+          {
+            "id": "6c0e99e486c33f73",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -225,19 +234,33 @@
   },
   "active": "2330dd79087d2583",
   "lastOpenFiles": [
-    "Veľkomoravská literatúra.md",
-    "Proglas.md",
-    "Hlaholika a cyrilika.md",
-    "Alegória a symbol.md",
-    "Trojjazyčníci.md",
-    "Hymnus.md",
-    "Konštantín a Metod.md",
-    "Stredoveká literatúra.md",
-    "Legenda.md",
-    "Literárne Obdobia.md",
     "Literatúra.md",
-    "Zdroje/Zmaturuj (Lit)/Stredoveká Literatúra/WhatsApp Image 2026-10-14 at 14.33.14.jpeg",
     "Requirementy/Requirementy.md",
+    "Paródia.md",
+    "Donkichotstvo.md",
+    "Blankvers.md",
+    "Alžbetínske divadlo.md",
+    "Reformácia.md",
+    "Renesancia.md",
+    "Humanizmus.md",
+    "Balada.md",
+    "Sonet.md",
+    "Román.md",
+    "Novela.md",
+    "Machiavelli.md",
+    "Rabelais.md",
+    "Villon.md",
+    "Dante.md",
+    "Petrarca.md",
+    "Boccaccio.md",
+    "Cervantes.md",
+    "Shakespeare.md",
+    "Božská komédia.md",
+    "Sonety pre Lauru.md",
+    "Romeo a Júlia.md",
+    "Hamlet.md",
+    "Don Quijote.md",
+    "Zdroje/Zmaturuj (Lit)/Stredoveká Literatúra/WhatsApp Image 2026-10-14 at 14.33.14.jpeg",
     "Zdroje/Zmaturuj (Lit)/Stredoveká Literatúra/WhatsApp Image 2026-10-14 at 14.33.15 (2).jpeg",
     "Zdroje/Zmaturuj (Lit)/Stredoveká Literatúra/WhatsApp Image 2026-10-14 at 14.33.15 (1).jpeg",
     "Zdroje/Zmaturuj (Lit)/Stredoveká Literatúra/WhatsApp Image 2026-10-14 at 14.33.16.jpeg",
@@ -245,20 +268,6 @@
     "Zdroje/Zmaturuj (Lit)/Stredoveká Literatúra/WhatsApp Image 2026-10-14 at 14.33.16 (1).jpeg",
     "Zdroje/Zmaturuj (Lit)/Stredoveká Literatúra/WhatsApp Image 2026-10-14 at 14.33.15.jpeg",
     "Zdroje/Zmaturuj (Lit)/Stredoveká Literatúra/WhatsApp Image 2026-10-14 at 14.33.15 (3).jpeg",
-    "Antická literatúra.md",
-    "Staroveká literatúra.md",
-    "Hebrejská literatúra.md",
-    "Biblia.md",
-    "Kalokagatia.md",
-    "Orientálna literatúra.md",
-    "Sumerská literatúra.md",
-    "Epos o Gilgamešovi.md",
-    "Epos.md",
-    "Metamorfózy.md",
-    "Grécka literatúra.md",
-    "Euripides.md",
-    "Antická dráma.md",
-    "Aristoteles.md",
     "Untitled 1",
     "Requirementy",
     "Zdroje/PDFka (Lit)/Antické žánre.pdf",
