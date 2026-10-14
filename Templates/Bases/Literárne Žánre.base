@@ -1,0 +1,11 @@
+views:
+  - type: table
+    name: All
+    filters:
+      and:
+        - categories.contains(link("Literárne Žánre"))
+        - '!file.inFolder("Templates")'
+    order:
+      - file.name
+      - druh
+      - obdobie

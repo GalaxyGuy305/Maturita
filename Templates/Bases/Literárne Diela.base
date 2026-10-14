@@ -1,0 +1,16 @@
+views:
+  - type: table
+    name: All
+    filters:
+      and:
+        - categories.contains(link("Literárne Diela"))
+        - '!file.inFolder("Templates")'
+    order:
+      - file.name
+      - obdobie
+      - celok
+      - autor
+      - žáner
+      - národ
+      - povinné
+    sort: []

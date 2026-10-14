@@ -1,0 +1,16 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "categories": "multitext",
+    "diela": "multitext",
+    "žánre": "multitext",
+    "autory": "multitext",
+    "autor": "multitext",
+    "žáner": "multitext",
+    "obdobie": "multitext",
+    "národ": "multitext",
+    "postavy": "multitext"
+  }
+}

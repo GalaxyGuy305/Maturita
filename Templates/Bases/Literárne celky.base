@@ -1,0 +1,12 @@
+views:
+  - type: table
+    name: All
+    filters:
+      and:
+        - categories.contains(link("Literárne celky"))
+        - '!file.inFolder("Templates")'
+    order:
+      - file.name
+      - obdobie
+      - celok
+    sort: []
