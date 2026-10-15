@@ -87,3 +87,4 @@ Znaky starovekej literatúry v diele:
 - Šalamúnova pieseň je súbor starých ľúbostných piesní (cirkev v nej metaforicky ospevuje Ježiša) – [[Ľúbostná báseň]]
 - [[Podobenstvo]] sa objavuje práve v Biblii
 - Celok: [[Hebrejská literatúra]]
+- Vplyv na [[Barok|barok]]: [[John Milton]] – [[Stratený raj]] a [[Raj znovu nájdený]]; biblické motívy otvárajú aj časti diela [[Valaská škola mravúv stodola]].

@@ -5,6 +5,7 @@ druh: Lyrika
 obdobie:
   - "[[Staroveká literatúra]]"
   - "[[Humanizmus a Renesancia]]"
+  - "[[Barok]]"
 diela:
   - "[[Umenie milovať]]"
   - "[[Sonety pre Lauru]]"
@@ -20,3 +21,4 @@ diela:
 - [[Ovídius]]: [[Umenie milovať]] (o ľúbostnom cite), *Lieky proti láske*
 - [[Sapfó]]: lyrika o láske a kráse dievčat
 - v renesancii: [[Petrarca]] – [[Sonety pre Lauru]] (platonická láska k Laure, forma [[Sonet|sonetu]]); [[Shakespeare]] – Sonety
+- V baroku: anonymná *Ach, tyranko srdce mého, proč si mne tak ranila* – zradená láska, utrpenie, hyperboly a [[Epitaf|epitaf]]. Pozri [[Slovenská baroková literatúra]].

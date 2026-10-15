@@ -4,6 +4,7 @@ categories:
 druh: Epika
 obdobie:
   - "[[Staroveká literatúra]]"
+  - "[[Barok]]"
 diela:
 ---
 
@@ -16,3 +17,4 @@ diela:
 ## Príklady
 
 - anekdoty o Cézarovi
+- Veselé anekdoty sú súčasťou barokového románu [[Dobrodružný Simplicius Simplicissimus]] ([[Grimmelshausen]]).

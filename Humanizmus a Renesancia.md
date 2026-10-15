@@ -109,3 +109,5 @@ Ostatné zvýraznené veci v Zmaturuj (aspoň názvy) sú v celkoch: [[Európska
 | 1597 | [[Romeo a Júlia]] |
 | 1601 | [[Hamlet]] |
 | 1605 | [[Don Quijote]] (1. diel) |
+
+Nadväzujúce obdobie: [[Barok]]. Na prechode stojí [[Torquato Tasso]] a jeho [[Oslobodený Jeruzalem]].

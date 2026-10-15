@@ -41,3 +41,4 @@ Slovenská humanistická a renesančná literatúra (**1500 – 1650**) sa vyví
 - Ďalší humanisti z poznámok: Ján Jesenius (lekár, prvá verejná pitva), Vavrinec Benedikt z Nedožier (1. systematická gramatika češtiny)
 - Nadväznosť: [[Slovenská stredoveká literatúra]], [[Latinská literatúra v Uhorsku]]
 - Európsky kontext: [[Európska humanistická a renesančná literatúra]]
+- Nadväzujúce obdobie: [[Slovenská baroková literatúra]], najmä [[Hugolín Gavlovič]] – [[Valaská škola mravúv stodola]].

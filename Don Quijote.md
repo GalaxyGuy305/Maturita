@@ -8,7 +8,7 @@ autor:
   - "[[Cervantes]]"
 žáner:
   - "[[Román]]"
-  - "[[Pikarejsky Román]]"
+  - "[[Pikareskný román]]"
 obdobie:
   - "[[Humanizmus a Renesancia]]"
 celok:
@@ -59,4 +59,5 @@ Znaky renesančnej literatúry v diele:
 ## Súvislosti
 
 - Autor: [[Cervantes]]; žáner: [[Román]]
+- Pikareskná tradícia pokračuje v baroku: [[Pikareskný román]], [[Dobrodružný Simplicius Simplicissimus]] ([[Grimmelshausen]]).
 - Parodovaný žáner: rytiersky [[Epos|epos]]/román z [[Stredoveká literatúra|obdobia stredoveku]]

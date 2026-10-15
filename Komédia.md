@@ -22,3 +22,4 @@ diela:
 - [[Plautus]] (rímska komédia, [[Komédia o hrnci]])
 - [[Shakespeare]] (renesančná komédia): Skrotenie zlej ženy, Sen noci svätojánskej, Mnoho kriku pre nič, Veselé panie windsorské, Večer trojkráľový, Benátsky kupec, Dvaja šľachtici z Verony, Komédia omylov, Ako sa vám páči
 - [[Machiavelli]]: *Mandragora* (satirická komédia, výsmech ľudskej hlúposti)
+- [[Commedia dell’arte]] – talianske profesionálne ľudové divadlo, vrchol v 16. – 17. storočí; improvizácia a ustálené komické typy postáv.
