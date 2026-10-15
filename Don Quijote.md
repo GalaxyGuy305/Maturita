@@ -8,6 +8,7 @@ autor:
   - "[[Cervantes]]"
 žáner:
   - "[[Román]]"
+  - "[[Pikarejsky Román]]"
 obdobie:
   - "[[Humanizmus a Renesancia]]"
 celok:
