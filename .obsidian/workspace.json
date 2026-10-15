@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1530786a6d278c8c",
+        "id": "3401a495a1b96db7",
         "type": "tabs",
         "children": [
           {
-            "id": "4c7d9bfaef921a06",
+            "id": "0bec8ca3ffd1b49f",
             "type": "leaf",
             "state": {
               "type": "split-diff-view",
@@ -232,8 +232,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4c7d9bfaef921a06",
+  "active": "0bec8ca3ffd1b49f",
   "lastOpenFiles": [
+    "Zdroje/PDFka (Lit)/Barok/02. baroková epika.pdf",
+    "Zdroje/PDFka (Lit)/Barok/04. Gavlovič.pdf",
+    "Zdroje/PDFka (Lit)/Barok/básne HG.pdf",
+    "Zdroje/PDFka (Lit)/Barok/6. lit. v období baroka.docx",
+    "Zdroje/PDFka (Lit)/Barok/01. barok v E lit.pdf",
+    "Zdroje/PDFka (Lit)/Barok",
+    "Zdroje/PDFka (Lit)/New folder",
+    "Zdroje/Tahak (Lit)/Barok/WhatsApp Image 2026-10-10 at 20.01.33 (3).jpeg",
+    "Zdroje/Tahak (Lit)/Barok/20261010_200750.jpg",
+    "Zdroje/Tahak (Lit)/Barok",
+    "Zdroje/Tahak (Lit)/New folder",
+    "Zdroje/Zmaturuj (Lit)/Barok/WhatsApp Image 2026-10-15 at 11.45.51 (2).jpeg",
+    "Zdroje/Zmaturuj (Lit)/Barok/WhatsApp Image 2026-10-15 at 11.45.51 (1).jpeg",
+    "Zdroje/Zmaturuj (Lit)/Barok/WhatsApp Image 2026-10-15 at 11.45.51.jpeg",
+    "Zdroje/Zmaturuj (Lit)/Barok",
+    "Zdroje/Zmaturuj (Lit)/New folder",
     "Slovenská humanistická a renesančná literatúra.md",
     "Requirementy/Requirementy.md",
     "Humanizmus a Renesancia.md",
@@ -242,9 +258,6 @@
     "Zdroje/Zmaturuj (Lit)/Humanizmus a Renesancia/WhatsApp Image 2026-10-14 at 16.49.07 (3).jpeg",
     "Zdroje/Zmaturuj (Lit)/Humanizmus a Renesancia/WhatsApp Image 2026-10-14 at 16.49.07 (2).jpeg",
     "Zdroje/Zmaturuj (Lit)/Humanizmus a Renesancia/WhatsApp Image 2026-10-14 at 16.49.07 (1).jpeg",
-    "Zdroje/Zmaturuj (Lit)/Humanizmus a Renesancia/WhatsApp Image 2026-10-14 at 16.49.07.jpeg",
-    "Zdroje/Zmaturuj (Lit)/Humanizmus a Renesancia/WhatsApp Image 2026-10-14 at 16.49.06 (2).jpeg",
-    "Zdroje/Zmaturuj (Lit)/Humanizmus a Renesancia/WhatsApp Image 2026-10-14 at 16.49.06.jpeg",
     "Don Quijote.md",
     "Román.md",
     "Literárne Obdobia.md",
@@ -266,19 +279,6 @@
     "Petrarca.md",
     "Boccaccio.md",
     "Cervantes.md",
-    "Shakespeare.md",
-    "Božská komédia.md",
-    "Zdroje/Zmaturuj (Lit)/Stredoveká Literatúra/WhatsApp Image 2026-10-14 at 14.33.14.jpeg",
-    "Zdroje/Zmaturuj (Lit)/Stredoveká Literatúra/WhatsApp Image 2026-10-14 at 14.33.15 (2).jpeg",
-    "Untitled 1",
-    "Requirementy",
-    "Zdroje/PDFka (Lit)/Antické žánre.pdf",
-    "Zdroje/PDFka (Lit)/2. staroveká lit..docx",
-    "Zdroje/PDFka (Lit)",
-    "Zdroje/New folder",
-    "Zdroje/Tahak (Lit)",
-    "Zdroje/Zmaturuj (Lit)",
-    "Zdroje",
-    "Templates/Bases/sedCnCfgb"
+    "Shakespeare.md"
   ]
 }
