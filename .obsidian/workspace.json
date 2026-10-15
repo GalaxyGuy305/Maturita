@@ -11,6 +11,7 @@
             "id": "6e5a1c91683ded33",
             "type": "leaf",
             "state": {
+<<<<<<< HEAD
               "type": "split-diff-view",
               "state": {
                 "aFile": "Requirementy/Requirementy.md",
@@ -19,6 +20,12 @@
               },
               "icon": "diff",
               "title": "Diff: Requirementy  (Working Tree)"
+=======
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graf"
+>>>>>>> origin/main
             }
           }
         ]
@@ -46,7 +53,7 @@
                 "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Prieskumník súborov"
             }
           },
           {
@@ -130,7 +137,11 @@
       }
     ],
     "direction": "horizontal",
+<<<<<<< HEAD
     "width": 660.5
+=======
+    "width": 200
+>>>>>>> origin/main
   },
   "right": {
     "id": "7f0b6ff667b2d5d6",
@@ -218,15 +229,16 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": false,
+      "switcher:Otvoriť rýchly prepínač": false,
+      "graph:Otvoriť graf": false,
+      "templates:Vložiť šablónu": false,
+      "command-palette:Otvoriť paletu príkazov": false,
+      "bases:Vytvoriť novú databázu": false,
       "copilot:Open Copilot Agent Chat": false,
       "templater-obsidian:Templater": false,
       "obsidian-git:Open Git source control": false
@@ -234,6 +246,7 @@
   },
   "active": "6c0e99e486c33f73",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "Slovenská humanistická a renesančná literatúra.md",
     "Requirementy/Requirementy.md",
     "Humanizmus a Renesancia.md",
@@ -247,6 +260,20 @@
     "Zdroje/Zmaturuj (Lit)/Humanizmus a Renesancia/WhatsApp Image 2026-10-14 at 16.49.06.jpeg",
     "Don Quijote.md",
     "Román.md",
+=======
+    "Nová položka Textový dokument.txt",
+    "Hamlet.md",
+    "Humanizmus a Renesancia.md",
+    "Romeo a Júlia.md",
+    "Don Quijote.md",
+    "Dekameron.md",
+    "Novela.md",
+    "Petrarca.md",
+    "Sonety pre Lauru.md",
+    "Sonet.md",
+    "Európska humanistická a renesančná literatúra.md",
+    "Božská komédia.md",
+>>>>>>> origin/main
     "Literárne Obdobia.md",
     "Literatúra.md",
     "Paródia.md",
@@ -257,10 +284,10 @@
     "Renesancia.md",
     "Humanizmus.md",
     "Balada.md",
-    "Sonet.md",
-    "Novela.md",
+    "Román.md",
     "Machiavelli.md",
     "Rabelais.md",
+<<<<<<< HEAD
     "Villon.md",
     "Dante.md",
     "Petrarca.md",
@@ -268,6 +295,8 @@
     "Cervantes.md",
     "Shakespeare.md",
     "Božská komédia.md",
+=======
+>>>>>>> origin/main
     "Zdroje/Zmaturuj (Lit)/Stredoveká Literatúra/WhatsApp Image 2026-10-14 at 14.33.14.jpeg",
     "Zdroje/Zmaturuj (Lit)/Stredoveká Literatúra/WhatsApp Image 2026-10-14 at 14.33.15 (2).jpeg",
     "Untitled 1",
