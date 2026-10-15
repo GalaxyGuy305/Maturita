@@ -7,6 +7,7 @@ obdobie:
   - "[[Stredoveká literatúra]]"
   - "[[Humanizmus a Renesancia]]"
   - "[[Barok]]"
+  - "[[Klasicizmus a Osvietenstvo]]"
 diela:
   - "[[Epos o Gilgamešovi]]"
   - "[[Ilias]]"
@@ -16,6 +17,7 @@ diela:
   - "[[Oslobodený Jeruzalem]]"
   - "[[Stratený raj]]"
   - "[[Raj znovu nájdený]]"
+  - "[[Svatopluk]]"
 ---
 
 ## Charakteristika
@@ -38,3 +40,15 @@ diela:
 - **Mahábhárata** – najrozsiahlejší epos svetovej literatúry ([[Orientálna literatúra]])
 - **Na prechode k baroku:** [[Torquato Tasso]] – [[Oslobodený Jeruzalem]], hrdinský epos o prvej križiackej výprave.
 - **Barokový duchovný epos:** [[John Milton]] – [[Stratený raj]], [[Raj znovu nájdený]]; námety z [[Biblia|Biblie]].
+
+## Slovenský klasicizmus
+
+- [[Ján Hollý]] – **[[Svatopluk]]**, **Cirillo-Metodiada**, **Sláv**: antická forma slúži vlasteneckému obsahu.
+- **[[Časomerný veršový systém|Časomerný hexameter]]**, propozícia, invokácia, epická šírka, výpočet bojovníkov, boje, epizódy a nadprirodzené zásahy.
+- [[Svatopluk]] má **12 spevov**, múzu **Umku** a začína sa **in medias res**. Umelecký príbeh o Veľkej Morave podporuje národné obrodenie.
+
+## Zdroje
+
+- [[Zdroje/PDFka (Lit)/Klasicizmus a Osvietenstvo/5. epos v K.pdf]]
+- [[Zdroje/PDFka (Lit)/Klasicizmus a Osvietenstvo/HOLLÝ.pdf]]
+- [[Zdroje/PDFka (Lit)/Klasicizmus a Osvietenstvo/7+ svatopluk úrývok.pdf]]

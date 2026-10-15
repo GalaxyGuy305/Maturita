@@ -49,9 +49,16 @@ Slovenský [[Barok|barok]] odráža vojny, náboženské prenasledovanie a neist
 - Obrana národa nadväzuje na [[Konštantín a Metod|Konštantína a Metoda]] a [[Veľkomoravská literatúra|veľkomoravskú tradíciu]].
 - Európske súvislosti: [[Európska baroková literatúra]].
 
+
+## Nadväzujúce obdobie
+
+[[Slovenská klasicistická a osvietenská literatúra]]: [[Juraj Fándly|Fándlyho]] osveta a [[Jozef Ignác Bajza|Bajzova]] spoločenská kritika; [[Anton Bernolák|Bernolákova]] kodifikácia; [[Ján Hollý|Hollého]] a [[Ján Kollár|Kollárovo]] vlastenectvo. Prehľad: [[Slovenské národné obrodenie]].
+
 ## Zdroje
 
 - [[Zdroje/PDFka (Lit)/Barok/6. lit. v období baroka.docx]]
 - [[Zdroje/PDFka (Lit)/Barok/02. baroková epika.pdf]]
 - [[Zdroje/Tahak (Lit)/Barok/20261010_200750.jpg]]
 - [[Zdroje/Tahak (Lit)/Barok/WhatsApp Image 2026-10-10 at 20.01.33 (3).jpeg]]
+- [[Zdroje/PDFka (Lit)/Klasicizmus a Osvietenstvo/8. Klasicizmus, osvietenstvo a národné obrodenie.docx]]
+- [[Zdroje/PDFka (Lit)/Klasicizmus a Osvietenstvo/9. myšlienka slovan. vzájomnosti v slovenskej lit. v období klasicizmu.docx]]

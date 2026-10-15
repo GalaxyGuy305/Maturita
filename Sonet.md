@@ -4,8 +4,10 @@ categories:
 druh: Lyrika
 obdobie:
   - "[[Humanizmus a Renesancia]]"
+  - "[[Klasicizmus a Osvietenstvo]]"
 diela:
   - "[[Sonety pre Lauru]]"
+  - "[[Slávy dcéra]]"
 ---
 
 ## Charakteristika
@@ -19,3 +21,13 @@ diela:
 
 - [[Petrarca]]: [[Sonety pre Lauru]] (Spevník) – najznámejšie sonety 14. st.
 - [[Shakespeare]]: Sonety (vrchol svetovej lyriky; ľúbostné a priateľské city)
+
+## Klasicizmus
+
+- [[Ján Kollár]] – **[[Slávy dcéra]]**: ľúbostné, vlastenecké a náučné sonety (znelky) v piatich spevoch rozšíreného vydania.
+- **Sonety sú sylabotonické; Předzpěv je časomerná elégia**, nie sonet. Pozri [[Časomerný veršový systém]].
+
+## Zdroje
+
+- [[Zdroje/PDFka (Lit)/Klasicizmus a Osvietenstvo/KOLLÁR.pdf]]
+- [[Zdroje/Zmaturuj (Lit)/Klasicizmus a Osvietenstvo/WhatsApp Image 2026-10-15 at 12.52.50.jpeg]]

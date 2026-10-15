@@ -5,8 +5,11 @@ druh: Dráma
 obdobie:
   - "[[Staroveká literatúra]]"
   - "[[Humanizmus a Renesancia]]"
+  - "[[Klasicizmus a Osvietenstvo]]"
 diela:
   - "[[Komédia o hrnci]]"
+  - "[[Lakomec]]"
+  - "[[Kocúrkovo]]"
 ---
 
 ## Charakteristika
@@ -23,3 +26,16 @@ diela:
 - [[Shakespeare]] (renesančná komédia): Skrotenie zlej ženy, Sen noci svätojánskej, Mnoho kriku pre nič, Veselé panie windsorské, Večer trojkráľový, Benátsky kupec, Dvaja šľachtici z Verony, Komédia omylov, Ako sa vám páči
 - [[Machiavelli]]: *Mandragora* (satirická komédia, výsmech ľudskej hlúposti)
 - [[Commedia dell’arte]] – talianske profesionálne ľudové divadlo, vrchol v 16. – 17. storočí; improvizácia a ustálené komické typy postáv.
+
+## Klasicizmus
+
+- **Nízky žáner**, súčasné a meštianske prostredie, kritika ľudských chýb; [[Charakterový typ postavy|charakterové typy]].
+- [[Molière]] – **[[Lakomec]]**: charakterová komédia, päť dejstiev, próza a jednota miesta, času a deja.
+- [[Ján Chalupka]] – **[[Kocúrkovo]]**: satirická veselohra v troch dejstvách, hovoriace mená, odrodilstvo a [[Komika|jazyková komika]].
+- [[Carlo Goldoni]] – **Sluha dvoch pánov, Mirandolina, Grobiani**.
+
+## Zdroje
+
+- [[Zdroje/PDFka (Lit)/Klasicizmus a Osvietenstvo/2. dráma + Moliere.pdf]]
+- [[Zdroje/PDFka (Lit)/Klasicizmus a Osvietenstvo/4. dráma - J. Chalupka.pdf]]
+- [[Zdroje/Zmaturuj (Lit)/Klasicizmus a Osvietenstvo/WhatsApp Image 2026-10-15 at 12.52.48 (2).jpeg]]

@@ -28,3 +28,12 @@ Publius Vergilius Maro, básnik. Vo svojich dielach propagoval snahy o obrodu r�
 ## Súvislosti
 
 - v [[Božská komédia|Božskej komédii]] ([[Dante]], [[Humanizmus a Renesancia]]) je Danteho sprievodcom Peklom a Očistcom (symbol rozumu)
+
+## Nadväznosť v slovenskom klasicizme
+
+[[Ján Hollý]] prekladal Vergíliovu poéziu a nadväzoval na antickú epiku aj pastiersku tvorbu: [[Svatopluk]], **Selanky**. Súvislosti: [[Epos]], [[Idyla]], [[Časomerný veršový systém]].
+
+## Zdroje
+
+- [[Zdroje/PDFka (Lit)/Klasicizmus a Osvietenstvo/9. myšlienka slovan. vzájomnosti v slovenskej lit. v období klasicizmu.docx]]
+- [[Zdroje/PDFka (Lit)/Klasicizmus a Osvietenstvo/HOLLÝ.pdf]]

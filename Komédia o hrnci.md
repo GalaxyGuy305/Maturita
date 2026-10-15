@@ -21,7 +21,7 @@ postavy:
   - Otrok
 povinné: false
 ---
-Rímska komédia, ktorá zobrazuje človeka závislého od peňazí. Inšpirovala neskôr Moliéra (*Lakomec*).
+Rímska komédia, ktorá zobrazuje človeka závislého od peňazí. Inšpirovala neskôr [[Molière|Moliéra]] ([[Lakomec]]).
 
 ## Kompozícia
 
@@ -45,7 +45,7 @@ Euclio je chudobný, ale nájde hrniec so zlatom, ktorý v dome ukryl jeho predo
 
 ## Hlavná myšlienka
 
-**Hlavná myšlienka na maturitu:** kritika lakomstva a zotročenia peniazmi – majetok nás môže zbaviť pokoja a slobody. Smiech odhaľuje ľudské chyby (satirický rozmer komédie). Podľa tohto vzoru vznikol Molièrov *Lakomec*.
+**Hlavná myšlienka na maturitu:** kritika lakomstva a zotročenia peniazmi – majetok nás môže zbaviť pokoja a slobody. Smiech odhaľuje ľudské chyby (satirický rozmer komédie). Podľa tohto vzoru vznikol [[Molière|Molièrov]] [[Lakomec]].
 
 ## Zaradenie do obdobia
 

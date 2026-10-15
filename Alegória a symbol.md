@@ -5,6 +5,7 @@ obdobie:
   - "[[Stredoveká literatúra]]"
   - "[[Humanizmus a Renesancia]]"
   - "[[Barok]]"
+  - "[[Klasicizmus a Osvietenstvo]]"
 ---
 
 - **Alegória (inotaj)** – druh rozvinutej metafory, nepriamy obraz či dej; autor sa nechce alebo nemôže vyjadriť priamo; môže byť kompozičným princípom celého diela (napr. alegorický obraz neba a pekla, [[Dante]]: [[Božská komédia]])
@@ -15,3 +16,13 @@ obdobie:
 - [[Labyrint sveta a raj srdca]] ([[Ján Amos Komenský]]) – mesto predstavuje svet, pútnik hľadá svoje miesto v živote, jeho sprievodcovia zosobňujú zvedavosť a nekritické preberanie názorov.
 - [[Oslobodený Jeruzalem]] ([[Torquato Tasso]]) – boj o mesto vyjadruje aj duchovný zápas človeka.
 - Barokový štýl využíva aj [[Antitéza a hyperbola|antitézu a hyperbolu]].
+
+## Klasicizmus a osvietenstvo
+
+- [[Slávy dcéra]]: **Sláva = slovanstvo**, **Mína = ideál slovanskej budúcnosti**, **dubisko = Rusko**.
+- [[Jonathan Swift]] – **Gulliverove cesty**: fantastické krajiny vytvárajú alegorický a satirický obraz spoločnosti.
+
+## Zdroje
+
+- [[Zdroje/PDFka (Lit)/Klasicizmus a Osvietenstvo/KOLLÁR.pdf]]
+- [[Zdroje/Zmaturuj (Lit)/Klasicizmus a Osvietenstvo/WhatsApp Image 2026-10-15 at 12.52.48 (3).jpeg]]

@@ -5,6 +5,7 @@ druh: Dráma
 obdobie:
   - "[[Staroveká literatúra]]"
   - "[[Humanizmus a Renesancia]]"
+  - "[[Klasicizmus a Osvietenstvo]]"
 diela:
   - "[[Antigona]]"
   - "[[Hamlet]]"
@@ -21,3 +22,12 @@ diela:
 ## Autori a príklady
 
 - [[Aischylos]] (zakladateľ), [[Sofokles]] ([[Antigona]], Kráľ Oidipus, Elektra), [[Euripides]] (Medea); v renesancii [[Shakespeare]] ([[Hamlet]], [[Romeo a Júlia]], Othello, Kráľ Lear, Macbeth) – renesancia znovuzrodila antickú tragédiu ([[Alžbetínske divadlo]])
+
+## Klasicizmus
+
+**Vysoký žáner**, vznešené postavy a konflikt **citu s povinnosťou**; požiadavka jednoty miesta, času a deja. **[[Pierre Corneille]] – Cid, Horácius; [[Jean Racine]] – Faidra**.
+
+## Zdroje
+
+- [[Zdroje/PDFka (Lit)/Klasicizmus a Osvietenstvo/1. klasicizmus + osvietenstvo + rac..pdf]]
+- [[Zdroje/PDFka (Lit)/Klasicizmus a Osvietenstvo/2. dráma + Moliere.pdf]]

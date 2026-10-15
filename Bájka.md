@@ -4,6 +4,7 @@ categories:
 druh: Epika
 obdobie:
   - "[[Staroveká literatúra]]"
+  - "[[Klasicizmus a Osvietenstvo]]"
 diela:
   - "[[Bájky]]"
 ---
@@ -18,3 +19,12 @@ diela:
 ## Autori a príklady
 
 - [[Ezop]] – [[Bájky]] (*Husi a žeriavy*, *Človek a satyr*)
+
+## Klasicizmus
+
+[[Jean de La Fontaine]] – **Bájky**: nadväzuje na [[Ezop|Ezopa]], zvieracie príbehy s ponaučením využíva na spoločenskú kritiku. Bájka patrí medzi **nízke žánre** a vyhovuje osvietenskému výchovnému zámeru. La Fontainova zbierka je iné dielo než existujúce [[Bájky|Ezopove Bájky]].
+
+## Zdroje
+
+- [[Zdroje/PDFka (Lit)/Klasicizmus a Osvietenstvo/1. klasicizmus + osvietenstvo + rac..pdf]]
+- [[Zdroje/Zmaturuj (Lit)/Klasicizmus a Osvietenstvo/WhatsApp Image 2026-10-15 at 12.52.48 (2).jpeg]]

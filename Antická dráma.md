@@ -47,3 +47,11 @@ Diela: [[Antigona]], [[Komédia o hrnci]]
 ## Neskorší vplyv
 
 - renesancia znovuzrodila antickú tragédiu (sled úmrtí, katarzia, jednota miesta, času a deja): [[Shakespeare]] ([[Hamlet]], [[Romeo a Júlia]]), pozri [[Humanizmus a Renesancia]] a [[Alžbetínske divadlo]]
+
+## Klasicistické nadviazanie
+
+[[Klasicizmus a Osvietenstvo|Klasicizmus]] znovu presadzuje **jednotu miesta, času a deja**. [[Molière]] ju využíva v [[Lakomec|Lakomcovi]], ktorý námetom nadväzuje na [[Komédia o hrnci|Plautovu komédiu]]. Prehľad: [[Tragédia]], [[Komédia]].
+
+## Zdroje
+
+- [[Zdroje/PDFka (Lit)/Klasicizmus a Osvietenstvo/2. dráma + Moliere.pdf]]

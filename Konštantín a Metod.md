@@ -47,6 +47,14 @@ Solúnski bratia z Byzancie (dnešné Solún / Thessaloniki), ktorí v roku **86
 
 ## Význam
 
-Cyrilometodská a veľkomoravská tradícia mala v živote nášho národa veľký význam; pestovala sa najmä po 17. st., keď sa formoval slovenský národ (Magin, Fándly, Bernolák, Hollý, Kollár, štúrovci).
+Cyrilometodská a veľkomoravská tradícia mala v živote nášho národa veľký význam; pestovala sa najmä po 17. st., keď sa formoval slovenský národ ([[Ján Baltazár Magin|Magin]], [[Juraj Fándly|Fándly]], [[Anton Bernolák|Bernolák]], [[Ján Hollý|Hollý]], [[Ján Kollár|Kollár]], štúrovci).
 
 V baroku ju pri obhajobe Slovákov pripomína [[Ján Baltazár Magin]] v diele [[Ostne alebo Obrana]].
+
+## Národné obrodenie
+
+[[Ján Hollý]] spracúva ich misiu v epose **Cirillo-Metodiada**. Veľkomoravská a cyrilometodská tradícia podporujú vlastenectvo v [[Slovenské národné obrodenie|slovenskom národnom obrodení]].
+
+## Zdroje
+
+- [[Zdroje/PDFka (Lit)/Klasicizmus a Osvietenstvo/9. myšlienka slovan. vzájomnosti v slovenskej lit. v období klasicizmu.docx]]

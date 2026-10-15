@@ -96,6 +96,11 @@ Barok je umelecký smer, ktorý sa od **polovice 16. storočia šíril z Talians
 
 [[Humanizmus a Renesancia]] → **Barok**. Barok preberá renesančnú zmyslovosť a túžbu po poznaní, zároveň sa znovu obracia k nadpozemským istotám známym zo [[Stredoveká literatúra|stredoveku]].
 
+
+## Nasledujúce obdobie
+
+**[[Klasicizmus a Osvietenstvo]]** zdôrazní rozum, striedmosť a prísne umelecké pravidlá. V slovenskom prostredí nadviaže na výchovnú a národnoobrannú tvorbu rozvojom osvety, spisovného jazyka a [[Slovenské národné obrodenie|národného obrodenia]].
+
 ## Zdroje
 
 - [[Zdroje/PDFka (Lit)/Barok/01. barok v E lit.pdf]]
@@ -104,3 +109,5 @@ Barok je umelecký smer, ktorý sa od **polovice 16. storočia šíril z Talians
 - [[Zdroje/Zmaturuj (Lit)/Barok/WhatsApp Image 2026-10-15 at 11.45.51.jpeg|Zmaturuj, s. 32]]
 - [[Zdroje/Zmaturuj (Lit)/Barok/WhatsApp Image 2026-10-15 at 11.45.51 (1).jpeg|Zmaturuj, s. 33]]
 - [[Zdroje/Zmaturuj (Lit)/Barok/WhatsApp Image 2026-10-15 at 11.45.51 (2).jpeg|Zmaturuj, s. 34]]
+- [[Zdroje/PDFka (Lit)/Klasicizmus a Osvietenstvo/8. Klasicizmus, osvietenstvo a národné obrodenie.docx]]
+- [[Zdroje/Tahak (Lit)/Klasicizmus a Osvietenstvo/20261010_200817.jpg]]
