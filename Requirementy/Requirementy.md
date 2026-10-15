@@ -23,6 +23,8 @@ Co potrebujeme vediet z literatury (Toto su dvolezite veci, nie vsetko):
 		3. Par komedii a tragedii (Staci nazov)
 	4. Sonety pre Lauru
 	5. Ostatne zvyraznene veci v Zmaturuj aspon nazvy
+4. Barok:
+	1. Hugolín Gavlovič - Valaská škola mravúv stodola
 
 Co potrebujeme vediet o diele (dvolezite veci):
 1. Autor

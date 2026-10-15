@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "3401a495a1b96db7",
+        "id": "284155666961458b",
         "type": "tabs",
         "children": [
           {
-            "id": "0bec8ca3ffd1b49f",
+            "id": "64147fd439e7f7a8",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
+                "file": "Requirementy/Requirementy.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: workspace.json  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "Requirementy"
             }
           }
         ]
@@ -232,8 +232,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0bec8ca3ffd1b49f",
+  "active": "64147fd439e7f7a8",
   "lastOpenFiles": [
+    "Literatúra.md",
     "Zdroje/PDFka (Lit)/Barok/02. baroková epika.pdf",
     "Zdroje/PDFka (Lit)/Barok/04. Gavlovič.pdf",
     "Zdroje/PDFka (Lit)/Barok/básne HG.pdf",
@@ -249,7 +250,6 @@
     "Zdroje/Zmaturuj (Lit)/Barok/WhatsApp Image 2026-10-15 at 11.45.51 (1).jpeg",
     "Zdroje/Zmaturuj (Lit)/Barok/WhatsApp Image 2026-10-15 at 11.45.51.jpeg",
     "Zdroje/Zmaturuj (Lit)/Barok",
-    "Zdroje/Zmaturuj (Lit)/New folder",
     "Slovenská humanistická a renesančná literatúra.md",
     "Requirementy/Requirementy.md",
     "Humanizmus a Renesancia.md",
@@ -261,7 +261,6 @@
     "Don Quijote.md",
     "Román.md",
     "Literárne Obdobia.md",
-    "Literatúra.md",
     "Paródia.md",
     "Donkichotstvo.md",
     "Blankvers.md",
