@@ -11,14 +11,10 @@
             "id": "6e5a1c91683ded33",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Don Quijote.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Don Quijote"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graf"
             }
           }
         ]
@@ -46,7 +42,7 @@
                 "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Prieskumník súborov"
             }
           },
           {
@@ -130,8 +126,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 660.5,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "7f0b6ff667b2d5d6",
@@ -219,15 +214,16 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": false,
+      "switcher:Otvoriť rýchly prepínač": false,
+      "graph:Otvoriť graf": false,
+      "templates:Vložiť šablónu": false,
+      "command-palette:Otvoriť paletu príkazov": false,
+      "bases:Vytvoriť novú databázu": false,
       "copilot:Open Copilot Agent Chat": false,
       "templater-obsidian:Templater": false,
       "obsidian-git:Open Git source control": false
@@ -235,8 +231,18 @@
   },
   "active": "6e5a1c91683ded33",
   "lastOpenFiles": [
-    "Román.md",
+    "Nová položka Textový dokument.txt",
+    "Hamlet.md",
     "Humanizmus a Renesancia.md",
+    "Romeo a Júlia.md",
+    "Don Quijote.md",
+    "Dekameron.md",
+    "Novela.md",
+    "Petrarca.md",
+    "Sonety pre Lauru.md",
+    "Sonet.md",
+    "Európska humanistická a renesančná literatúra.md",
+    "Božská komédia.md",
     "Literárne Obdobia.md",
     "Literatúra.md",
     "Requirementy/Requirementy.md",
@@ -248,19 +254,9 @@
     "Renesancia.md",
     "Humanizmus.md",
     "Balada.md",
-    "Sonet.md",
-    "Novela.md",
+    "Román.md",
     "Machiavelli.md",
     "Rabelais.md",
-    "Villon.md",
-    "Dante.md",
-    "Petrarca.md",
-    "Boccaccio.md",
-    "Cervantes.md",
-    "Shakespeare.md",
-    "Božská komédia.md",
-    "Sonety pre Lauru.md",
-    "Romeo a Júlia.md",
     "Zdroje/Zmaturuj (Lit)/Stredoveká Literatúra/WhatsApp Image 2026-10-14 at 14.33.14.jpeg",
     "Zdroje/Zmaturuj (Lit)/Stredoveká Literatúra/WhatsApp Image 2026-10-14 at 14.33.15 (2).jpeg",
     "Zdroje/Zmaturuj (Lit)/Stredoveká Literatúra/WhatsApp Image 2026-10-14 at 14.33.15 (1).jpeg",
