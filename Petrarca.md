@@ -21,4 +21,4 @@ Taliansky básnik a prozaik, **„otec humanizmu"** a predchodca renesancie, pri
 
 ## Najdôležitejšie diela
 
-- [[Sonety pre Lauru]] (*Spevník*) – asi 365 (366) sonetov venovaných Laure, platonická láska
+- [[Sonety pre Lauru]] (*Spevník*) – 366 sonetov venovaných Laure, platonická láska
