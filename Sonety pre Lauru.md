@@ -23,7 +23,7 @@ Zbierka lyrických básní, ktorých názov u nás znie *Sonety pre Lauru* (v or
 
 ## Kompozícia
 
-- **Vonkajšia**: zbierka asi **365 (366)** [[Sonet|sonetov]] (zdroje sa líšia); 2 časti: *Za Laurinho života* a *Po Laurinej smrti*; napísaná **ľudovou taliančinou**
+- **Vonkajšia**: zbierka asi **366** [[Sonet|sonetov]]; 2 časti: *Za Laurinho života* a *Po Laurinej smrti*; napísaná **ľudovou taliančinou**
 - ukážky v zdroji: sonet č. 76 (*Za Laurinho života*; adresovaný priateľovi Sennuccovi, básnik sa priznáva k náruživej láske, Laura je premenlivá: pokorná i pyšná, tvrdá i zbožná) a sonet č. 62 (*Po Laurinej smrti*; Laura sa mu zjavuje v spomienkach, básnik si pripomína, že zomrela 6. apríla 1348)
 - **Vnútorná**: sonet má 4 + 4 + 3 + 3 veršov (dva štvorveršia a dve trojveršia); v poslednom trojverší býva pointa
 

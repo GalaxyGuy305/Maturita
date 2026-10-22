@@ -13,6 +13,7 @@ Co potrebujeme vediet z literatury (Toto su dvolezite veci, nie vsetko):
 	1. Veľká Morava:
 		1. Moravsko Panónske Legendy
 		2. Proglas
+		3. Ostatné diela (Piesen o Cidovi...) (Netreba vediet detailne, hlavne nazov a 2-3 vety)
 	2. Konštantýn a Metod
 3. Humanizmus a Renesancia:
 	1. Dekameron

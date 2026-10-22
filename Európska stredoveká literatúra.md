@@ -3,12 +3,19 @@ categories:
   - "[[Literárne celky]]"
 obdobie:
   - "[[Stredoveká literatúra]]"
-diela: []
+diela:
+  - "[[Pieseň o Rolandovi]]"
+  - "[[Pieseň o Cidovi]]"
+  - "[[Tristan a Izolda]]"
+  - "[[Beowulf]]"
+  - "[[Pieseň o Nibelungoch]]"
+  - "[[Slovo o pluku Igorovom]]"
+  - "[[Dalimilova kronika]]"
 ---
 
 ## Úvod
 
-Z európskej tvorby stredoveku sa zachovalo niekoľko známych diel. Z maturitného hľadiska ide len o **prehľad** (nie sú medzi povinnými dielami); dôležité je vedieť priradiť dielo k národu a žánru. Najstaršie hrdinské eposy (*chanson de geste*) spievali ľudoví speváci, trubadúri; zapísané boli až neskôr.
+Z európskej tvorby stredoveku sa zachovalo niekoľko známych diel. Z maturitného hľadiska ide len o **prehľad**; dôležité je vedieť priradiť dielo k národu a žánru. Najstaršie hrdinské eposy (*chanson de geste*) spievali ľudoví speváci, trubadúri; zapísané boli až neskôr.
 
 ## Diela
 

@@ -2,31 +2,32 @@
 categories:
   - "[[Literárne Diela]]"
 aliases:
-  - "Kocourkovo"
-  - "Kocúrkovo alebo Len aby sme v hanbe nezostali"
-  - "Len aby sme v hanbe nezostali"
+  - Kocourkovo
+  - Kocúrkovo alebo Len aby sme v hanbe nezostali
+  - Len aby sme v hanbe nezostali
 autor:
   - "[[Ján Chalupka]]"
 žáner:
   - "[[Komédia]]"
+  - "[[Satira]]"
 obdobie:
   - "[[Klasicizmus a Osvietenstvo]]"
 celok:
   - "[[Slovenská klasicistická a osvietenská literatúra]]"
 národ:
-  - "Slovenský"
+  - Slovenský
 postavy:
-  - "Pán z Chudobíc"
-  - "Tesnošil Jánoš"
-  - "Madlena"
-  - "Anička"
-  - "Honzík"
-  - "Svoboda"
-  - "Ľudmila"
-  - "Martin"
-  - "Rajnoha"
-  - "Krahulec"
-  - "Garazda"
+  - Pán z Chudobíc
+  - Tesnošil Jánoš
+  - Madlena
+  - Anička
+  - Honzík
+  - Svoboda
+  - Ľudmila
+  - Martin
+  - Rajnoha
+  - Krahulec
+  - Garazda
 povinné: true
 ---
 

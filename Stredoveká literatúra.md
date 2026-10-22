@@ -9,6 +9,13 @@ diela:
   - "[[Proglas]]"
   - "[[Moravsko-panónske legendy]]"
   - "[[Legenda o sv. Svoradovi a Benediktovi]]"
+  - "[[Pieseň o Rolandovi]]"
+  - "[[Pieseň o Cidovi]]"
+  - "[[Tristan a Izolda]]"
+  - "[[Beowulf]]"
+  - "[[Pieseň o Nibelungoch]]"
+  - "[[Slovo o pluku Igorovom]]"
+  - "[[Dalimilova kronika]]"
 autory:
   - "[[Konštantín a Metod]]"
   - "[[Kliment Ochridský]]"
@@ -73,8 +80,17 @@ Stredovek sa začína zánikom Západorímskej ríše (476) a trvá do 15. storo
 | [[Veľkomoravská literatúra]] | ⭐ [[Proglas]] | [[Konštantín a Metod\|Konštantín Filozof]] | [[Hymnus]] |
 | [[Veľkomoravská literatúra]] | ⭐ [[Moravsko-panónske legendy]] | [[Kliment Ochridský]], [[Gorazd]] | [[Legenda]] |
 | [[Latinská literatúra v Uhorsku]] | [[Legenda o sv. Svoradovi a Benediktovi]] | [[Maurus]] | [[Legenda]] |
+| [[Európska stredoveká literatúra]] | [[Pieseň o Rolandovi]] | anonym | francúzsky hrdinský [[Epos\|epos]] (*chanson de geste*) |
+| [[Európska stredoveká literatúra]] | [[Pieseň o Cidovi]] | anonym | španielsky hrdinský [[Epos\|epos]] |
+| [[Európska stredoveká literatúra]] | [[Tristan a Izolda]] | anonym | keltská ľudová povesť o láske |
+| [[Európska stredoveká literatúra]] | [[Beowulf]] | anonym | anglický (staroanglický) [[Epos\|epos]] |
+| [[Európska stredoveká literatúra]] | [[Pieseň o Nibelungoch]] | anonym | nemecký hrdinský [[Epos\|epos]] |
+| [[Európska stredoveká literatúra]] | [[Slovo o pluku Igorovom]] | anonym | ruský (staroruský) [[Epos\|epos]] |
+| [[Európska stredoveká literatúra]] | [[Dalimilova kronika]] | anonym | česká [[Kronika\|kronika]] (veršovaná) |
 
 Povinná je aj osobnosť ⭐ [[Konštantín a Metod]].
+
+**Ostatné diela** (riadky bez ⭐ vyššie): netreba ich vedieť detailne, stačí **názov, národ a 2 – 3 vety** (každé má vlastnú poznámku). Ďalej stačí poznať názov: *Alexandreida* (Gautier de Châtillon), *Kronika česká* (Kosmas), Jan Hus – *Knížky o svatokupectví*, [[Božská komédia]] ([[Dante]]). Prehľad všetkých: [[Európska stredoveká literatúra]].
 
 ## Časová os
 

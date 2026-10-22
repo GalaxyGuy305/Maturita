@@ -81,14 +81,14 @@ Obdobie sa začalo **objavmi a vynálezmi**: objavenie Ameriky, heliocentrický 
 
 ## Čo treba vedieť (maturitné minimum)
 
-| Dielo | Autor | Žáner | Krajina |
-| --- | --- | --- | --- |
-| ⭐ [[Sonety pre Lauru]] | [[Petrarca]] | [[Sonet]] | Taliansko |
-| ⭐ [[Dekameron]] | [[Boccaccio]] | [[Novela]] (rámcová) | Taliansko |
-| ⭐ [[Don Quijote]] | [[Cervantes]] | [[Román]] (paródia) | Španielsko |
-| ⭐ [[Romeo a Júlia]] | [[Shakespeare]] | [[Tragédia]] | Anglicko |
-| ⭐ [[Hamlet]] | [[Shakespeare]] | [[Tragédia]] | Anglicko |
-| Pár komédií a tragédií od [[Shakespeare\|Shakespeara]] (stačí názov) | [[Shakespeare]] | [[Komédia]], [[Tragédia]] | Anglicko |
+| Dielo                                                                | Autor           | Žáner                     | Krajina    |
+| -------------------------------------------------------------------- | --------------- | ------------------------- | ---------- |
+| ⭐ [[Sonety pre Lauru]]                                               | [[Petrarca]]    | [[Sonet]]                 | Taliansko  |
+| ⭐ [[Dekameron]]                                                      | [[Boccaccio]]   | [[Novela]] (rámcová)      | Taliansko  |
+| ⭐ [[Don Quijote]]                                                    | [[Cervantes]]   | [[Román]] (paródia)       | Španielsko |
+| ⭐ [[Romeo a Júlia]]                                                  | [[Shakespeare]] | [[Tragédia]]              | Anglicko   |
+| ⭐ [[Hamlet]]                                                         | [[Shakespeare]] | [[Tragédia]]              | Anglicko   |
+| Pár komédií a tragédií od [[Shakespeare\|Shakespeara]] (stačí názov) | [[Shakespeare]] | [[Komédia]], [[Tragédia]] | Anglicko   |
 
 [[Božská komédia]] nie je povinná, stačí názov a základné údaje.
 
