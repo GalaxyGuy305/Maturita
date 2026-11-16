@@ -108,3 +108,7 @@ Znaky starovekej literatúry v diele:
 - Gilgamešov nárek nad Enkiduom je jeden z najstarších [[Žalospev|žalospevov]]
 - Žáner: hrdinský [[Epos]]; najstarší hrdinský epos vôbec
 - Celok: [[Sumerská literatúra]]
+
+## Moja Kresba
+
+![[Excalidraw/Epos o Gilgamešovi|Epos o Gilgamešovi]]

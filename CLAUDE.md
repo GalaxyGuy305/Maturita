@@ -1,0 +1,12 @@
+Tento folder je obsidian vault ktorý sluzi ako material + poznamky na ucenie na maturity pre Slovensky Jazyk a Literaturu.
+
+Rozdeluje sa na 3 hlavne casti:
+    1. "Root\" -> V roote sa nachadzaju vsetky markdown poznamky. Forma poznamok je inspirovana Steph Ango / Celestial vault self organizing notes systemom. Namiesto vela nested priecinkov, vo vaulte sa naviguje cez properties, quick switcher, obsidian basy a cez linky. Kazdy note ma categories property, kde je linknuty centralny hub note napr ako `[[Literárne Obdobia]]` a v tom hub note sa nachadza embednuta obsidian base s vsetkymi literarnymi obdobiami. Potom kazda categoria notu moze mat svoje custom properties, ktore sluzia ako bonus. Vyhoda tohto systemu je ze narozdiel od nested folderov, jeden note moze mat viac nez jednu kategoriu.
+    2. "Zdroje\" -> Toto je priecinok kde ukladame externe zdroje, napr ako ucebne materialy od nasej ucitelky, materialy z knih z nasej skoly alebo materialy od externych ucitelov. Narozdiel od rootu vaultu, tento priecinok ma traditional organizaciu nested folderov. Rozdeluje sa na PDFka (Lit / SJL), Tahak (Lit / SJL) a Zmaturuj (Lit). V kazdom priecinku su dalsie priecinky pre kazdy celok. Ako napriklad "Zdroje\Zmaturuj (Lit)\Barok".
+    3. "Requirementy\Requirementy.md\" -> Tu sa nachadzaju mnou napisane requirementy co som pocul od ucitelky alebo videl na nasej skole. Je to self explanatory ale v skratke to pise vsetko co je must have na maturity.
+
+Pravidla vaultu:
+    1. Nikdy ziadne AI nemeni: Requirementy, Zdroje, Settingy (.claude, .gitignore, .obsidian, ...) pokial to neni vyslovene v prompte. Taktiez nikdy nemeni nejaky chyby ktore najde vo vaulte po ceste a neboli vobec mentionnute v prompte. Vzdy treba chybu iba nahlasit aby user mohol zvasit ci je to realne chyba alebo je to acceptovatelne.
+    2. Vsetky obsidian base files idu do "Templates\Bases\".
+    3. Zdroje / Informacie ktore nie su vytiahnute z "Zdroje\" musia byt oznacene nejak. Bud "🤖" pre informacie priamo od AI alebo "💻" pre informacie zobrane z realnych zdrojov mimo nasich zdrojov (Zvycajne internet a tak). Priorita zdrojov je "Zdroje\" -> ("🤖" && "💻") -> ("🤖" || "💻").
+    4. Dodrziavat styl vaultu.
