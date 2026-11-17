@@ -39,13 +39,13 @@ Co potrebujeme vediet z literatury (Toto su dvolezite veci, nie vsetko):
 	1. nem. Utrpenie Mladého Wertera (Goethe)
 	2. rus. Kapitánová Dcéra, Eugen Onegin (Puškin)
 	3. fran. Chrám Matky Božej (Victor Hugo)
-	4. Ľudovít štúr + SVK (napr znik hymny)
-	5. Sturovci: 
-	Samo Chalupka (Morho),
-	Jan Botto (Zlta Lalia, Smrt Janosikova),
-	Andrej Sladkovic (Marina),
-	Janko Kral (Zakliata Panna vo vahu)
-	6. Post: Jan Palavik (Zmierenie alebo...)
+	4. Sturovci: 
+		1. Ľudovít štúr + SVK (napr znik hymny)
+		2. Samo Chalupka (Morho),
+		3. Jan Botto (Zlta Lalia, Smrt Janosikova),
+		4. Andrej Sladkovic (Marina),
+		5. Janko Kral (Zakliata Panna vo vahu)
+	5. Post: Jan Palavik (Zmierenie alebo...)
 7. Realizmus:
 	1. fran. Otec Goriot (Balzac + dalsich 5 mien spisovatelov a meno ich diel z knihy zmaturuj)
 	2. ang. Emilie/Charlotte Brontëová
@@ -65,6 +65,7 @@ Co potrebujeme vediet o diele (dvolezite veci):
 5. Postavy
 6. Dejova linia
 7. Kompozicia
+8. (Bonus: Preco sa to vola ako sa to vola, ak sa to da zistit, toto vacsinou je platne pri novsich dielach)
 
 Co potrebujeme vediet o kodifikácii (dvolezite veci):
 1. Datovanie
