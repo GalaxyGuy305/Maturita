@@ -35,6 +35,27 @@ Co potrebujeme vediet z literatury (Toto su dvolezite veci, nie vsetko):
 	6. Ján Hollý + Svatopluk
 	7. Ján Chalúpka + Kocúrkovo
 	8. SNO (Slovenské národné obrodenie a veci okolo toho ako kodifikácie a tak)
+6. Romantizmus + Preromantizmus a Postromantizmus:
+	1. nem. Utrpenie Mladého Wertera (Goethe)
+	2. rus. Kapitánová Dcéra, Eugen Onegin (Puškin)
+	3. fran. Chrám Matky Božej (Victor Hugo)
+	4. Ľudovít štúr + SVK (napr znik hymny)
+	5. Sturovci: 
+	Samo Chalupka (Morho),
+	Jan Botto (Zlta Lalia, Smrt Janosikova),
+	Andrej Sladkovic (Marina),
+	Janko Kral (Zakliata Panna vo vahu)
+	6. Post: Jan Palavik (Zmierenie alebo...)
+7. Realizmus:
+	1. fran. Otec Goriot (Balzac + dalsich 5 mien spisovatelov a meno ich diel z knihy zmaturuj)
+	2. ang. Emilie/Charlotte Brontëová
+	3. ang. kronika Pickwickovho Klubu (Dickens)
+	4. rus. Anna Kareninová (Tolstoj)
+	5. rus. Zlocin a Trest (Dostojevskij)
+	6. rus. (Dalsich 5 mien a meno ich diel z knihy zmaturuj)
+	7. SVK:
+		1. ...
+...
 
 Co potrebujeme vediet o diele (dvolezite veci):
 1. Autor
