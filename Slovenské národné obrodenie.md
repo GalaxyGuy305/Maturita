@@ -43,6 +43,7 @@ obdobie:
 - Tajný spolok **Vzájomnosť (1837 – 1840)**, nedeľné školy, boj proti nevzdelanosti a alkoholizmu.
 - **Slovenský prestolný prosbopis (1842)** – požiadavky proti národnému útlaku a maďarizácii.
 - **1843:** nová kodifikácia na stredoslovenskom základe; viac v [[Kodifikácia slovenčiny|prehľade kodifikácií]].
+- Podrobne o štúrovskej generácii (Levoča 1844, hymna, Žiadosti 1848) a jej literatúre: [[Štúrovci]], [[Romantizmus]].
 
 > [!note] Rozpor v podkladoch
 > Pri Slovenskom učenom tovarišstve používaj **1792**, ako uvádza školské PDF aj ďalší podklad; Zmaturuj na s. 44 uvádza 1789. Nezamieňať s rokom 1789 pri Fándlyho Dúvernej zmlúve.

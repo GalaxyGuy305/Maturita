@@ -7,10 +7,12 @@ obdobie:
   - "[[Humanizmus a Renesancia]]"
   - "[[Barok]]"
   - "[[Klasicizmus a Osvietenstvo]]"
+  - "[[Romantizmus]]"
 diela:
   - "[[Umenie milovať]]"
   - "[[Sonety pre Lauru]]"
   - "[[Slávy dcéra]]"
+  - "[[Marína]]"
 ---
 
 ## Charakteristika
@@ -29,7 +31,12 @@ diela:
 
 [[Ján Kollár]] – [[Slávy dcéra]]: osobná láska k **Míne** sa spája s láskou k **vlasti**; „pol srdca Míne, pol vlasti“. Ľúbostné vyznanie nadobúda aj vlastenecký a alegorický význam.
 
+## Romantizmus
+
+[[Andrej Sládkovič]] – ⭐ [[Marína]]: najznámejšia ľúbostná skladba slovenskej literatúry; láska k žene a k vlasti **splývajú v jedno** („Vlasť drahú ľúbiť v peknej Maríne…“) – na rozdiel od Kollárovho rozdeleného srdca. Ďalej Tatianin list v [[Eugen Onegin|Eugenovi Oneginovi]] a Štúrova báseň *Rozžehnání* ([[Ľudovít Štúr]]).
+
 ## Zdroje
 
 - [[Zdroje/PDFka (Lit)/Klasicizmus a Osvietenstvo/9. myšlienka slovan. vzájomnosti v slovenskej lit. v období klasicizmu.docx]]
 - [[Zdroje/Zmaturuj (Lit)/Klasicizmus a Osvietenstvo/48_Slovenske-osvietenstvo-klasicizmus.jpeg]]
+- [[Zdroje/Zmaturuj (Lit)/Romantizmus/63_Slovensky-romantizmus.jpg]]

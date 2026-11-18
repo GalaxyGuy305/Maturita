@@ -25,7 +25,7 @@ diela:
 
 ## Život a tvorba
 
-⭐ ✏️ Dramatik, učiteľ a evanjelický kňaz, starší brat **Sama Chalupku**. Pôsobil v **Brezne**, kde spoznal malomestské pomery. Pôvodne písal slovakizovanou češtinou, neskôr svoje hry upravoval do slovenčiny.
+⭐ ✏️ Dramatik, učiteľ a evanjelický kňaz, starší brat **[[Samo Chalupka|Sama Chalupku]]**. Pôsobil v **Brezne**, kde spoznal malomestské pomery. Pôvodne písal slovakizovanou češtinou, neskôr svoje hry upravoval do slovenčiny.
 
 V satirických veselohrách kritizoval **odrodilstvo, polovzdelanosť, malomeštiactvo a pretvárku**. Používal [[Charakterový typ postavy|charakterové typy]], hovoriace mená a [[Komika|jazykovú komiku]] miešaním slovenčiny s maďarčinou, nemčinou a latinčinou.
 

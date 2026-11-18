@@ -6,6 +6,7 @@ aliases:
   - Slabičný veršový systém
 obdobie:
   - "[[Barok]]"
+  - "[[Romantizmus]]"
 ---
 
 **Sylabický (slabičný) systém** zakladá pravidelnosť verša na **rovnakom počte slabík**. V slovenskom baroku je typický jeho spevný charakter.
@@ -16,7 +17,15 @@ V ukážkach z [[Valaská škola mravúv stodola|Valaskej školy]] sa verš del�
 
 **Ukážka členenia:** „Pred Bohem mej čisté srdce | a pred lidmi rúcho“ = **8 | 6** slabík. V dodaných básňach sa rýmujú susedné verše (**združený rým AABB…**).
 
+## Romantizmus – štúrovci
+
+[[Štúrovci]] sa vracajú k sylabickému veršu ľudovej piesne (namiesto [[Časomerný veršový systém|časomiery]] klasicistov). Znaky podľa Zmaturuj: **opakovanie veršov s rovnakým počtom slabík, výrazná prestávka v strede verša, zhoda veršového a rytmického členenia, častý združený rým**.
+
+- Napr. [[Mor ho!]]: „Zleteli orly z Tatry, | tiahnu na podolia“ (**7 | 6** slabík 🤖), združený rým.
+- **Výnimka:** [[Andrej Sládkovič]] – [[Marína]] má zložitejšiu, umelú strofu.
+
 ## Zdroje
 
 - [[Zdroje/PDFka (Lit)/Barok/básne HG.pdf]]
+- [[Zdroje/Zmaturuj (Lit)/Romantizmus/60_Slovensky-romantizmus.jpg]]
 - [[Zdroje/Tahak (Lit)/Barok/12_Barokova-literatura.jpg]]

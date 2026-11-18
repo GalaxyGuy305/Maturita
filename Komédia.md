@@ -6,10 +6,13 @@ obdobie:
   - "[[Staroveká literatúra]]"
   - "[[Humanizmus a Renesancia]]"
   - "[[Klasicizmus a Osvietenstvo]]"
+  - "[[Romantizmus]]"
+  - "[[Realizmus]]"
 diela:
   - "[[Komédia o hrnci]]"
   - "[[Lakomec]]"
   - "[[Kocúrkovo]]"
+  - "[[Zmierenie alebo Dobrodružstvo pri obžinkoch]]"
 ---
 
 ## Charakteristika
@@ -34,7 +37,21 @@ diela:
 - [[Ján Chalupka]] – **[[Kocúrkovo]]**: satirická veselohra v troch dejstvách, hovoriace mená, odrodilstvo a [[Komika|jazyková komika]].
 - [[Carlo Goldoni]] – **Sluha dvoch pánov, Mirandolina, Grobiani**.
 
+## Postromantizmus
+
+- [[Ján Palárik]] – ⭐ **[[Zmierenie alebo Dobrodružstvo pri obžinkoch]]**: veselohra z prostredia vidieckej šľachty, **zámena postáv**, situačná komika, ľudový spev a tanec; zmierenie šľachty a ľudu. *Inkognito* nadväzuje na [[Kocúrkovo]], *Drotár*.
+- Komika Palárikových hier: omyly, zámena postáv, slovné skomoleniny, preoblečenie; **cez smiešne k etickej očiste**. Pozri [[Postromantizmus]].
+
+## Realizmus
+
+- [[Nikolaj Vasilievič Gogoľ]] – **Revízor**: satirická komédia; úradník Chlestakov je omylom považovaný za revízora, mestskí predstavitelia ho hostia a podplácajú; hra končí **nemou scénou**, keď príde skutočný revízor.
+- Gerhart Hauptmann – *Bobrí kožuch*. Pozri [[Európska realistická literatúra]].
+
 ## Zdroje
+
+- [[Zdroje/PDFka (Lit)/Postromantizmus/Ján Palárik/JP + zmierenie.pdf]]
+- [[Zdroje/Zmaturuj (Lit)/Postromantizmus/70_Romantizmus-zaciatok-realizmu.jpg]]
+- [[Zdroje/Zmaturuj (Lit)/Realizmus/74_Svetovy-realizmus.jpg]]
 
 - [[Zdroje/PDFka (Lit)/Klasicizmus a Osvietenstvo/2. dráma + Moliere.pdf]]
 - [[Zdroje/PDFka (Lit)/Klasicizmus a Osvietenstvo/4. dráma - J. Chalupka.pdf]]
