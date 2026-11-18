@@ -106,4 +106,4 @@ Znaky [[Barok|baroka]] v diele:
 - [[Zdroje/PDFka (Lit)/Barok/04. Gavlovič.pdf]]
 - [[Zdroje/PDFka (Lit)/Barok/6. lit. v období baroka.docx]]
 - [[Zdroje/PDFka (Lit)/Barok/básne HG.pdf]]
-- [[Zdroje/Tahak (Lit)/Barok/WhatsApp Image 2026-10-10 at 20.01.33 (3).jpeg]]
+- [[Zdroje/Tahak (Lit)/Barok/13_Barokova-literatura.jpeg]]

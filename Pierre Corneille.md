@@ -30,5 +30,5 @@ diela:
 ## Zdroje
 
 - [[Zdroje/PDFka (Lit)/Klasicizmus a Osvietenstvo/2. dráma + Moliere.pdf]]
-- [[Zdroje/Zmaturuj (Lit)/Klasicizmus a Osvietenstvo/WhatsApp Image 2026-10-15 at 12.52.48 (1).jpeg]]
-- [[Zdroje/Tahak (Lit)/Klasicizmus a Osvietenstvo/WhatsApp Image 2026-10-10 at 20.01.34.jpeg]]
+- [[Zdroje/Zmaturuj (Lit)/Klasicizmus a Osvietenstvo/41_Europsky-klasicizmus-osvietenstvo.jpeg]]
+- [[Zdroje/Tahak (Lit)/Klasicizmus a Osvietenstvo/15_Klasicisticka-literatura.jpeg]]

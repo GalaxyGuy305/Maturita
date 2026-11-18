@@ -28,4 +28,4 @@ Súvislosti: [[Osvietenstvo]], [[Európska klasicistická a osvietenská literat
 ## Zdroje
 
 - [[Zdroje/PDFka (Lit)/Klasicizmus a Osvietenstvo/1. klasicizmus + osvietenstvo + rac..pdf]]
-- [[Zdroje/Zmaturuj (Lit)/Klasicizmus a Osvietenstvo/WhatsApp Image 2026-10-15 at 12.52.48 (3).jpeg]]
+- [[Zdroje/Zmaturuj (Lit)/Klasicizmus a Osvietenstvo/43_Europsky-klasicizmus-osvietenstvo.jpeg]]

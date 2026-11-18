@@ -77,5 +77,5 @@ povinné: true
 ## Zdroje
 
 - [[Zdroje/PDFka (Lit)/Klasicizmus a Osvietenstvo/4. dráma - J. Chalupka.pdf]]
-- [[Zdroje/Zmaturuj (Lit)/Klasicizmus a Osvietenstvo/WhatsApp Image 2026-10-15 at 12.52.50 (1).jpeg]]
-- [[Zdroje/Tahak (Lit)/Klasicizmus a Osvietenstvo/WhatsApp Image 2026-10-10 at 20.01.34.jpeg]]
+- [[Zdroje/Zmaturuj (Lit)/Klasicizmus a Osvietenstvo/49_Slovenske-osvietenstvo-klasicizmus.jpeg]]
+- [[Zdroje/Tahak (Lit)/Klasicizmus a Osvietenstvo/15_Klasicisticka-literatura.jpeg]]

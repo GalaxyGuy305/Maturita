@@ -40,6 +40,6 @@ Epigram **Podobnosť** prirovnáva skupáňa k svini: úžitok z nich prichádza
 ## Zdroje
 
 - [[Zdroje/PDFka (Lit)/Klasicizmus a Osvietenstvo/3. epika - Bajza.pdf]]
-- [[Zdroje/Zmaturuj (Lit)/Klasicizmus a Osvietenstvo/WhatsApp Image 2026-10-15 at 12.52.49 (1).jpeg]]
-- [[Zdroje/Zmaturuj (Lit)/Klasicizmus a Osvietenstvo/WhatsApp Image 2026-10-15 at 12.52.49 (2).jpeg]]
-- [[Zdroje/Tahak (Lit)/Klasicizmus a Osvietenstvo/20261010_200817.jpg]]
+- [[Zdroje/Zmaturuj (Lit)/Klasicizmus a Osvietenstvo/45_Slovenske-osvietenstvo-klasicizmus.jpeg]]
+- [[Zdroje/Zmaturuj (Lit)/Klasicizmus a Osvietenstvo/46_Slovenske-osvietenstvo-klasicizmus.jpeg]]
+- [[Zdroje/Tahak (Lit)/Klasicizmus a Osvietenstvo/14_Klasicisticka-literatura.jpg]]

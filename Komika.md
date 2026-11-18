@@ -27,4 +27,4 @@ obdobie:
 - [[Zdroje/PDFka (Lit)/Klasicizmus a Osvietenstvo/2. dráma + Moliere.pdf]]
 - [[Zdroje/PDFka (Lit)/Klasicizmus a Osvietenstvo/4. dráma - J. Chalupka.pdf]]
 - [[Zdroje/PDFka (Lit)/Klasicizmus a Osvietenstvo/Lakomec - úryvok.pdf]]
-- [[Zdroje/Tahak (Lit)/Klasicizmus a Osvietenstvo/WhatsApp Image 2026-10-10 at 20.01.34.jpeg]]
+- [[Zdroje/Tahak (Lit)/Klasicizmus a Osvietenstvo/15_Klasicisticka-literatura.jpeg]]

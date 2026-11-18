@@ -33,4 +33,4 @@ diela:
 
 - [[Zdroje/PDFka (Lit)/Klasicizmus a Osvietenstvo/3. epika - Bajza.pdf]]
 - [[Zdroje/PDFka (Lit)/Klasicizmus a Osvietenstvo/1. klasicizmus + osvietenstvo + rac..pdf]]
-- [[Zdroje/Zmaturuj (Lit)/Klasicizmus a Osvietenstvo/WhatsApp Image 2026-10-15 at 12.52.50 (1).jpeg]]
+- [[Zdroje/Zmaturuj (Lit)/Klasicizmus a Osvietenstvo/49_Slovenske-osvietenstvo-klasicizmus.jpeg]]

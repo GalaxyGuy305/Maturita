@@ -74,5 +74,5 @@ Začiatok **„Aj, zde leží zem ta…“**: Předzpěv, nárek nad zánikom Sl
 
 - [[Zdroje/PDFka (Lit)/Klasicizmus a Osvietenstvo/KOLLÁR.pdf]]
 - [[Zdroje/PDFka (Lit)/Klasicizmus a Osvietenstvo/9. myšlienka slovan. vzájomnosti v slovenskej lit. v období klasicizmu.docx]]
-- [[Zdroje/Zmaturuj (Lit)/Klasicizmus a Osvietenstvo/WhatsApp Image 2026-10-15 at 12.52.50.jpeg]]
-- [[Zdroje/Zmaturuj (Lit)/Klasicizmus a Osvietenstvo/WhatsApp Image 2026-10-15 at 12.52.49 (3).jpeg]]
+- [[Zdroje/Zmaturuj (Lit)/Klasicizmus a Osvietenstvo/48_Slovenske-osvietenstvo-klasicizmus.jpeg]]
+- [[Zdroje/Zmaturuj (Lit)/Klasicizmus a Osvietenstvo/47_Slovenske-osvietenstvo-klasicizmus.jpeg]]

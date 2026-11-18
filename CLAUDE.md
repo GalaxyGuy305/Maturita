@@ -1,25 +1,67 @@
-Tento folder je obsidian vault ktorý sluzi ako material + poznamky na ucenie na maturity pre Slovensky Jazyk a Literaturu.
+# CLAUDE.md
 
-Rozdeluje sa na 3 hlavne casti:
-1. `Root\` -> V roote sa nachadzaju vsetky markdown poznamky. Forma poznamok je inspirovana Steph Ango / Celestial vault self organizing notes systemom. Namiesto vela nested priecinkov, vo vaulte sa naviguje cez properties, quick switcher, obsidian basy a cez linky. Kazdy note ma categories property, kde je linknuty centralny hub note napr ako `[[Literárne Obdobia]]` a v tom hub note sa nachadza embednuta obsidian base s vsetkymi literarnymi obdobiami. Potom kazda categoria notu moze mat svoje custom properties, ktore sluzia ako bonus. Vyhoda tohto systemu je ze narozdiel od nested folderov, jeden note moze mat viac nez jednu kategoriu.
-2. `Zdroje\` -> Toto je priecinok kde ukladame externe zdroje, napr ako ucebne materialy od nasej ucitelky, materialy z knih z nasej skoly alebo materialy od externych ucitelov. Narozdiel od rootu vaultu, tento priecinok ma traditional organizaciu nested folderov. Rozdeluje sa na PDFka (Lit / SJL), Tahak (Lit / SJL) a Zmaturuj (Lit). V kazdom priecinku su dalsie priecinky pre kazdy celok. Ako napriklad `Zdroje\Zmaturuj (Lit)\Barok`.
-3. `Requirementy\Requirementy.md\` -> Tu sa nachadzaju mnou napisane requirementy co som pocul od ucitelky alebo videl na nasej skole. Je to self explanatory ale v skratke to pise vsetko co je must have na maturity.
+Tento priečinok je Obsidian vault, ktorý slúži ako materiál a poznámky na učenie sa na maturitu zo Slovenského jazyka a literatúry.
 
-Pravidla vaultu:
-1. Nikdy ziadne AI nemeni: Requirementy, Zdroje, Settingy (.claude, .gitignore, .obsidian, ...) pokial to neni vyslovene v prompte. Taktiez nikdy nemeni nejaky chyby ktore najde vo vaulte po ceste a neboli vobec mentionnute v prompte. Vzdy treba chybu iba nahlasit aby user mohol zvasit ci je to realne chyba alebo je to acceptovatelne.
-2. Vsetky obsidian base files idu do "Templates\Bases\".
-3. Zdroje / Informacie ktore nie su vytiahnute z "Zdroje\" musia byt oznacene nejak. Bud "🤖" pre informacie priamo od AI alebo "💻" pre informacie zobrane z realnych zdrojov mimo nasich zdrojov (Zvycajne internet a tak). Priorita zdrojov je "Zdroje\" -> ("🤖" && "💻") -> ("🤖" || "💻").
-4. Dodrziavat styl vaultu.
+## Štruktúra vaultu
 
-Styl vaultu:
-1. Poznamky pre obdobia/celky ktore vyrazne odteluju cast v requirementoch (napr staroveka lit a nie sumerska lit) by mali vzdy obsahovat ten isty styl tabulky povinnych veci. Idealny styl: Uvod, Znaky, Tabulka, Casova os. Ak sa tato struktura neda dodrzat, alebo chces pridat nejaku cast, tak kludne mozes iba to prve navrhni!
-2. Poznamky pre dvolezite diela je fajn mat: Kompozicia, Postavy, Dejova Linia (Mozes mat viacej dejovich linii pre kazdy zdroj napr ako je v poznamke epos o gilgamesovi), Hlavna myslienka, Zaradenie do obdobia, Suvlistosti, Moja Kresba (Bonus ak user pouziva excalidraw). Ak chces zasa daco zmenit alebo pridat, mozes iba povedz otom bejby.
-3. Mali by sa prioritizovat PDFka nad plain markdownom. Najhlavnejsie tie ktore hovoria o specifickej veci. Napriklad ak je pdfko o ludovitovi sturovy (coz bude), tak by malo byt embednute v tom note o sturovy. Toto momentalne vobec neni ten case takze by sa to malo postupne fixovat. Prosim nikdy neurob tuto reformaciu sam. User musi vzdy povedat jake pdfko a co dat prec co pridat, popripadne sa ta opytat.
-4. Ak uz vyrabas nejaky outlier note napr ako "Epos" alebo neco pre priklad, tak sa ujisti ci uz taky note nahodov neexistuje. Ak neexistuje tak ho vytvor a napoj, ale ak existuje, tak iba pridaj do toho notu veci ktore su relevantne ak tam nahodov uz nejsu a iba napoj link. Nechcem duplikaty pls.
+Vault sa delí na 3 hlavné časti:
 
-Take convencie ktore si mozes zapametat:
-1. Prosim rob iba to co ti bolo povedane. Ak je ten prompt buns, alebo si si nieco vsimol, tak vzdy prosim navrhni alebo upozorni usera. Ak nahodov broski ta prompte ze "sprav to lepsie" alebo proste nejaky broad prompt tak vzdy povedz co planujes zmenit predtym nez to realne urobis.
-2. Pls robte jasne a zrozumitelne commity. Nie ze vault backup a random date alebo proste ze "barok" alebo take srajdy. Ked budes commitovat a pushovat ty tak pls nedavaj tam slohovky do toho commit messagu pretoze to sa mi nechce citat a ak to bude robit user tak mu pekne povedz ze nech si s tym da aspon 20 sekund effortu lebo ked uz robime na tom traja tak sa musime zorientovat.
-3. V niektorych requirementov je napisane ze (aspon 5 dalsich mien z maturuj) alebo take daco. Vzdy prosim povedz usery ak ti nahodov uz nepovedal ze nech ti tie mena da. Lebo zvycajne to su podciarknute mena ktore tvoj image reader pravdepodobne nezobere. Ak ti tie mena neda tak mu povedz ze je lenive prasa lebo to trva tak 1 minutu max 🥀.
+1. **`Root\`** – V koreni vaultu sa nachádzajú všetky markdown poznámky. Organizácia je inšpirovaná systémom „self-organizing notes" od Steph Ango (Celestial vault). Namiesto veľa vnorených priečinkov sa vo vaulte naviguje cez properties, Quick Switcher, Obsidian Bases a linky.
+   - Každá poznámka má property `categories`, v ktorej je linknutá centrálna hub poznámka, napr. `[[Literárne Obdobia]]`. V tejto hub poznámke je embednutá Obsidian Base so všetkými poznámkami danej kategórie (napr. so všetkými literárnymi obdobiami).
+   - Každá kategória poznámok môže mať aj vlastné custom properties, ktoré slúžia ako bonus.
+   - Výhoda tohto systému: na rozdiel od vnorených priečinkov môže mať jedna poznámka viac ako jednu kategóriu.
+2. **`Zdroje\`** – Priečinok s externými zdrojmi, napr. učebné materiály od našej učiteľky, materiály z kníh z našej školy alebo materiály od externých učiteľov.
+   - Na rozdiel od rootu vaultu má tento priečinok tradičnú organizáciu vnorených priečinkov.
+   - Delí sa na `PDFka (Lit)`, `PDFka (Jazyk)`, `PDFka (Štylistika)`, `Tahak (Lit / SJL)` a `Zmaturuj (Lit)`. V každom z nich sú ďalšie priečinky pre každý celok, napr. `Zdroje\Zmaturuj (Lit)\Barok`.
+   - V `PDFka (Lit)` môžu byť celky ďalej rozdelené (napr. `Európsky` / `Slovenský`, `Lyrika` / `Próza` / `Dráma`). Každý autor má vlastný priečinok a úryvky alebo plné texty jeho diel sú v podpriečinku `Texty diel`, napr. `Zdroje\PDFka (Lit)\Realizmus\Slovenský\Martin Kukučín\Texty diel`.
+   - Fotky zo Zmaturuj a Ťaháku sú pomenované podľa formátu `<strana>_<téma>`, napr. `32_Europsky-barok.jpeg`.
+3. **`Requirementy\Requirementy.md`** – Požiadavky, ktoré napísal user podľa toho, čo počul od učiteľky alebo videl na škole. Súbor je samovysvetľujúci; v skratke obsahuje všetko, čo je na maturite nevyhnutné (must have).
 
-Ak temporary note, vacsina poznamok momentalne bolo vyrobenych pred CLAUDE.md. Takze vecsina z tychto veci nemusi byt zrovna dodrzane. Iba to ber na obhlad ked uvidis nejaky mess v tomto vaulte. 
+## Pravidlá vaultu
+
+1. **AI nikdy nemení** `Requirementy`, `Zdroje` ani nastavenia (`.claude`, `.gitignore`, `.obsidian`, ...), pokiaľ to nie je výslovne uvedené v prompte.
+   - Rovnako AI nikdy neopravuje chyby, ktoré nájde vo vaulte popri práci a ktoré neboli v prompte vôbec spomenuté. Chybu vždy iba nahlási, aby user mohol zvážiť, či je to naozaj chyba, alebo je to akceptovateľné.
+2. Všetky Obsidian Base súbory (`.base`) patria do `Templates\Bases\`.
+3. Zdroje/informácie, ktoré nepochádzajú zo `Zdroje\`, musia byť označené:
+   - „🤖" – informácia priamo od AI,
+   - „💻" – informácia z reálnych zdrojov mimo našich zdrojov (zvyčajne internet a pod.).
+   - Priorita zdrojov: `Zdroje\` → („🤖" && „💻", t. j. AI informácia overená reálnym zdrojom) → („🤖" || „💻", t. j. iba jedno z nich).
+4. Dodržiavať štýl vaultu (viď nižšie).
+
+## Štýl vaultu
+
+1. **Poznámky pre obdobia/celky**, ktoré výrazne oddeľujú časť v requirementoch (napr. Staroveká literatúra, nie Sumerská literatúra), by mali vždy obsahovať rovnaký štýl tabuľky povinných vecí.
+   - Ideálna štruktúra: **Úvod, Znaky, Tabuľka, Časová os**.
+   - Ak sa táto štruktúra nedá dodržať alebo chceš pridať nejakú časť, môžeš to pokojne urobiť, ale najprv to iba navrhni.
+2. **Poznámky pre dôležité diela** by mali ideálne obsahovať: **Kompozícia, Postavy, Dejová línia, Hlavná myšlienka, Zaradenie do obdobia, Súvislosti, Moja kresba** (bonus, ak user používa Excalidraw).
+   - Dejových línií môže byť viac – jedna pre každý zdroj (napr. ako v poznámke Epos o Gilgamešovi).
+   - Ak chceš niečo zmeniť alebo pridať, môžeš, ale najprv to povedz.
+3. **PDFká majú prednosť pred obyčajným markdownom**, hlavne tie, ktoré hovoria o konkrétnej veci. Napr. ak existuje PDF o Ľudovítovi Štúrovi (čo bude), malo by byť embednuté v poznámke o Štúrovi.
+   - Momentálne to tak vo vaulte vôbec nie je, takže sa to bude postupne opravovať.
+   - **Túto reorganizáciu nikdy nerob sám.** User musí vždy povedať, aké PDF a čo odstrániť/pridať, prípadne sa ho opýtaj.
+4. **Žiadne duplikáty.** Ak vytváraš nejakú „outlier" poznámku (napr. `Epos`), najprv over, či už taká poznámka náhodou neexistuje.
+   - Ak neexistuje, vytvor ju a prepoj.
+   - Ak existuje, iba do nej doplň relevantné veci, ktoré v nej ešte nie sú, a pridaj na ňu link.
+
+## Konvencie
+
+1. **Rob iba to, čo ti bolo povedané.** Ak je prompt zlý alebo si si niečo všimol, vždy to navrhni alebo na to usera upozorni. Ak je prompt široký (napr. „sprav to lepšie"), vždy najprv povedz, čo plánuješ zmeniť, a až potom to urob.
+2. **Jasné a zrozumiteľné commity.** Žiadne „vault backup + dátum" ani jednoslovné správy typu „barok". Pracujeme na vaulte traja, takže z commitov sa musí dať zorientovať.
+   - **Formát commit message:**
+     - **Prvý riadok (summary):** krátke zhrnutie celého commitu (ideálne do ~300 znakov).
+     - **Prázdny riadok.**
+     - **Telo:** detailnejšie informácie o zmenách ako stručné odrážky (čo sa pridalo/zmenilo/odstránilo a v ktorých poznámkach). Žiadne slohovky – iba vecné body.
+   - Príklad:
+     ```
+     Romantizmus: nove poznamky pre Sturovcov
+
+     - Pridane poznamky: Ľudovít Štúr, Samo Chalupka, Ján Botto
+     - Romantizmus.md: doplnena tabulka a casova os
+     - Literárni Autori: napojene nove poznamky cez categories
+     ```
+   - Ak commituje user, upozorni ho, nech si s commit message dá aspoň 20 sekúnd effortu.
+3. **Chýbajúce mená zo Zmaturuj.** Niektoré requirementy obsahujú poznámky typu „(aspoň 5 ďalších mien zo Zmaturuj)". Ak ti ich user ešte nedal, vždy ho požiadaj, aby ti tie mená dal – zvyčajne sú to podčiarknuté mená, ktoré tvoj image reader pravdepodobne nezachytí. Ak ti ich nedá, povedz mu, že je lenivé prasa, lebo to trvá max. 1 minútu 🥀.
+
+## Dočasná poznámka
+
+Väčšina poznámok vo vaulte vznikla ešte pred vytvorením tohto `CLAUDE.md`, takže veľa z vyššie uvedených pravidiel v nich nemusí byť dodržaných. Ber to do úvahy, keď vo vaulte uvidíš nejaký neporiadok.

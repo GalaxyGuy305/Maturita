@@ -68,5 +68,5 @@ Súvislosti: [[Jozef Ignác Bajza]], [[Román]], [[Slovenské národné obrodeni
 ## Zdroje
 
 - [[Zdroje/PDFka (Lit)/Klasicizmus a Osvietenstvo/3. epika - Bajza.pdf]]
-- [[Zdroje/Zmaturuj (Lit)/Klasicizmus a Osvietenstvo/WhatsApp Image 2026-10-15 at 12.52.49 (1).jpeg]]
-- [[Zdroje/Tahak (Lit)/Klasicizmus a Osvietenstvo/20261010_200817.jpg]]
+- [[Zdroje/Zmaturuj (Lit)/Klasicizmus a Osvietenstvo/45_Slovenske-osvietenstvo-klasicizmus.jpeg]]
+- [[Zdroje/Tahak (Lit)/Klasicizmus a Osvietenstvo/14_Klasicisticka-literatura.jpg]]

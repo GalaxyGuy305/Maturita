@@ -31,4 +31,4 @@ diela:
 
 - [[Zdroje/PDFka (Lit)/Klasicizmus a Osvietenstvo/HOLLÝ.pdf]]
 - [[Zdroje/PDFka (Lit)/Klasicizmus a Osvietenstvo/KOLLÁR.pdf]]
-- [[Zdroje/Zmaturuj (Lit)/Klasicizmus a Osvietenstvo/WhatsApp Image 2026-10-15 at 12.52.50 (1).jpeg]]
+- [[Zdroje/Zmaturuj (Lit)/Klasicizmus a Osvietenstvo/49_Slovenske-osvietenstvo-klasicizmus.jpeg]]

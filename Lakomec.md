@@ -78,5 +78,5 @@ povinné: true
 - [[Zdroje/PDFka (Lit)/Klasicizmus a Osvietenstvo/7. Dramatická tvorba v období klasicizmu - Moliére.docx]]
 - [[Zdroje/PDFka (Lit)/Klasicizmus a Osvietenstvo/2. dráma + Moliere.pdf]]
 - [[Zdroje/PDFka (Lit)/Klasicizmus a Osvietenstvo/Lakomec - úryvok.pdf]]
-- [[Zdroje/Zmaturuj (Lit)/Klasicizmus a Osvietenstvo/WhatsApp Image 2026-10-15 at 12.52.48 (1).jpeg]]
-- [[Zdroje/Zmaturuj (Lit)/Klasicizmus a Osvietenstvo/WhatsApp Image 2026-10-15 at 12.52.48 (2).jpeg]]
+- [[Zdroje/Zmaturuj (Lit)/Klasicizmus a Osvietenstvo/41_Europsky-klasicizmus-osvietenstvo.jpeg]]
+- [[Zdroje/Zmaturuj (Lit)/Klasicizmus a Osvietenstvo/42_Europsky-klasicizmus-osvietenstvo.jpeg]]

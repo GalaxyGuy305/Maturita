@@ -58,7 +58,7 @@ Slovenský [[Barok|barok]] odráža vojny, náboženské prenasledovanie a neist
 
 - [[Zdroje/PDFka (Lit)/Barok/6. lit. v období baroka.docx]]
 - [[Zdroje/PDFka (Lit)/Barok/02. baroková epika.pdf]]
-- [[Zdroje/Tahak (Lit)/Barok/20261010_200750.jpg]]
-- [[Zdroje/Tahak (Lit)/Barok/WhatsApp Image 2026-10-10 at 20.01.33 (3).jpeg]]
+- [[Zdroje/Tahak (Lit)/Barok/12_Barokova-literatura.jpg]]
+- [[Zdroje/Tahak (Lit)/Barok/13_Barokova-literatura.jpeg]]
 - [[Zdroje/PDFka (Lit)/Klasicizmus a Osvietenstvo/8. Klasicizmus, osvietenstvo a národné obrodenie.docx]]
 - [[Zdroje/PDFka (Lit)/Klasicizmus a Osvietenstvo/9. myšlienka slovan. vzájomnosti v slovenskej lit. v období klasicizmu.docx]]

@@ -32,4 +32,4 @@ diela:
 - [[Zdroje/PDFka (Lit)/Klasicizmus a Osvietenstvo/7. Dramatická tvorba v období klasicizmu - Moliére.docx]]
 - [[Zdroje/PDFka (Lit)/Klasicizmus a Osvietenstvo/4. dráma - J. Chalupka.pdf]]
 - [[Zdroje/PDFka (Lit)/Klasicizmus a Osvietenstvo/8. Klasicizmus, osvietenstvo a národné obrodenie.docx]]
-- [[Zdroje/Zmaturuj (Lit)/Klasicizmus a Osvietenstvo/WhatsApp Image 2026-10-15 at 12.52.48 (3).jpeg]]
+- [[Zdroje/Zmaturuj (Lit)/Klasicizmus a Osvietenstvo/43_Europsky-klasicizmus-osvietenstvo.jpeg]]

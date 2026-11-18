@@ -27,5 +27,5 @@ celok:
 
 ## Zdroje
 
-- [[Zdroje/Zmaturuj (Lit)/Barok/WhatsApp Image 2026-10-15 at 11.45.51 (1).jpeg|Zmaturuj, s. 33]]
-- [[Zdroje/Zmaturuj (Lit)/Klasicizmus a Osvietenstvo/WhatsApp Image 2026-10-15 at 12.52.48 (2).jpeg]]
+- [[Zdroje/Zmaturuj (Lit)/Barok/33_Europsky-barok.jpeg|Zmaturuj, s. 33]]
+- [[Zdroje/Zmaturuj (Lit)/Klasicizmus a Osvietenstvo/42_Europsky-klasicizmus-osvietenstvo.jpeg]]

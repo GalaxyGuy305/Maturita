@@ -47,4 +47,4 @@ Križiaci bojujú o oslobodenie Jeruzalema. Do vojenského deja vstupujú nadpri
 
 ## Zdroje
 
-- [[Zdroje/Zmaturuj (Lit)/Barok/WhatsApp Image 2026-10-15 at 11.45.51 (1).jpeg|Zmaturuj, s. 33]]
+- [[Zdroje/Zmaturuj (Lit)/Barok/33_Europsky-barok.jpeg|Zmaturuj, s. 33]]

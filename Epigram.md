@@ -21,4 +21,4 @@ diela:
 ## Zdroje
 
 - [[Zdroje/PDFka (Lit)/Klasicizmus a Osvietenstvo/3. epika - Bajza.pdf]]
-- [[Zdroje/Tahak (Lit)/Klasicizmus a Osvietenstvo/20261010_200817.jpg]]
+- [[Zdroje/Tahak (Lit)/Klasicizmus a Osvietenstvo/14_Klasicisticka-literatura.jpg]]

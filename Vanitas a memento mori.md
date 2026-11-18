@@ -23,4 +23,4 @@ obdobie:
 
 - [[Zdroje/PDFka (Lit)/Barok/6. lit. v období baroka.docx]]
 - [[Zdroje/PDFka (Lit)/Barok/básne HG.pdf]]
-- [[Zdroje/Tahak (Lit)/Barok/20261010_200750.jpg]]
+- [[Zdroje/Tahak (Lit)/Barok/12_Barokova-literatura.jpg]]

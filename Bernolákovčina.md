@@ -36,4 +36,4 @@ Porovnaj [[Kodifikácia slovenčiny|Bernoláka a Štúra]].
 
 - [[Zdroje/PDFka (Lit)/Klasicizmus a Osvietenstvo/8. Klasicizmus, osvietenstvo a národné obrodenie.docx]]
 - [[Zdroje/PDFka (Lit)/Klasicizmus a Osvietenstvo/Etapy  SNO.pdf]]
-- [[Zdroje/Zmaturuj (Lit)/Klasicizmus a Osvietenstvo/WhatsApp Image 2026-10-15 at 12.52.49 (1).jpeg]]
+- [[Zdroje/Zmaturuj (Lit)/Klasicizmus a Osvietenstvo/45_Slovenske-osvietenstvo-klasicizmus.jpeg]]

@@ -165,5 +165,5 @@ Ostatné označené názvy (✏️) sú v [[Európska klasicistická a osvietens
 - [[Zdroje/PDFka (Lit)/Klasicizmus a Osvietenstvo/1. klasicizmus + osvietenstvo + rac..pdf]]
 - [[Zdroje/PDFka (Lit)/Klasicizmus a Osvietenstvo/1. fázy klasic..pdf]]
 - [[Zdroje/PDFka (Lit)/Klasicizmus a Osvietenstvo/8. Klasicizmus, osvietenstvo a národné obrodenie.docx]]
-- [[Zdroje/Zmaturuj (Lit)/Klasicizmus a Osvietenstvo/WhatsApp Image 2026-10-15 at 12.52.48.jpeg]]
-- [[Zdroje/Tahak (Lit)/Klasicizmus a Osvietenstvo/20261010_200817.jpg]]
+- [[Zdroje/Zmaturuj (Lit)/Klasicizmus a Osvietenstvo/40_Europsky-klasicizmus-osvietenstvo.jpeg]]
+- [[Zdroje/Tahak (Lit)/Klasicizmus a Osvietenstvo/14_Klasicisticka-literatura.jpg]]

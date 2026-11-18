@@ -33,5 +33,5 @@ obdobie:
 
 - [[Zdroje/PDFka (Lit)/Klasicizmus a Osvietenstvo/7+ svatopluk úrývok.pdf]]
 - [[Zdroje/PDFka (Lit)/Klasicizmus a Osvietenstvo/KOLLÁR.pdf]]
-- [[Zdroje/Zmaturuj (Lit)/Klasicizmus a Osvietenstvo/WhatsApp Image 2026-10-15 at 12.52.50.jpeg]]
-- [[Zdroje/Tahak (Lit)/Klasicizmus a Osvietenstvo/20261010_200817.jpg]]
+- [[Zdroje/Zmaturuj (Lit)/Klasicizmus a Osvietenstvo/48_Slovenske-osvietenstvo-klasicizmus.jpeg]]
+- [[Zdroje/Tahak (Lit)/Klasicizmus a Osvietenstvo/14_Klasicisticka-literatura.jpg]]

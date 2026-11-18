@@ -38,5 +38,5 @@ povinné: false
 
 ## Zdroje
 
-- [[Zdroje/Zmaturuj (Lit)/Barok/WhatsApp Image 2026-10-15 at 11.45.51 (2).jpeg|Zmaturuj, s. 34]]
+- [[Zdroje/Zmaturuj (Lit)/Barok/34_Europsky-barok.jpeg|Zmaturuj, s. 34]]
 - [[Zdroje/PDFka (Lit)/Barok/01. barok v E lit.pdf]]

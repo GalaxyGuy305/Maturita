@@ -31,4 +31,4 @@ diela:
 
 - [[Zdroje/PDFka (Lit)/Barok/02. baroková epika.pdf]]
 - [[Zdroje/PDFka (Lit)/Klasicizmus a Osvietenstvo/1. klasicizmus + osvietenstvo + rac..pdf]]
-- [[Zdroje/Zmaturuj (Lit)/Klasicizmus a Osvietenstvo/WhatsApp Image 2026-10-15 at 12.52.48 (2).jpeg]]
+- [[Zdroje/Zmaturuj (Lit)/Klasicizmus a Osvietenstvo/42_Europsky-klasicizmus-osvietenstvo.jpeg]]

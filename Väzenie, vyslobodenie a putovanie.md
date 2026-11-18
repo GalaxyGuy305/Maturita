@@ -49,4 +49,4 @@ Autor zachytáva **súd v Bratislave**, odsúdenie a pochod smerom na galeje do 
 ## Zdroje
 
 - [[Zdroje/PDFka (Lit)/Barok/02. baroková epika.pdf]]
-- [[Zdroje/Tahak (Lit)/Barok/WhatsApp Image 2026-10-10 at 20.01.33 (3).jpeg]]
+- [[Zdroje/Tahak (Lit)/Barok/13_Barokova-literatura.jpeg]]

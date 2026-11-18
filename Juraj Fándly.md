@@ -40,4 +40,4 @@ Písal v **[[Bernolákovčina|bernolákovčine]]**; v **Slovenskom učenom tovar
 - [[Zdroje/PDFka (Lit)/Klasicizmus a Osvietenstvo/1. fázy klasic..pdf]]
 - [[Zdroje/PDFka (Lit)/Klasicizmus a Osvietenstvo/2. osvietenstvo svk.pdf]]
 - [[Zdroje/PDFka (Lit)/Klasicizmus a Osvietenstvo/8. Klasicizmus, osvietenstvo a národné obrodenie.docx]]
-- [[Zdroje/Zmaturuj (Lit)/Klasicizmus a Osvietenstvo/WhatsApp Image 2026-10-15 at 12.52.49 (2).jpeg]]
+- [[Zdroje/Zmaturuj (Lit)/Klasicizmus a Osvietenstvo/46_Slovenske-osvietenstvo-klasicizmus.jpeg]]

@@ -42,4 +42,4 @@ Roku **1830** uviedol [[Kocúrkovo]] ochotnícky súbor **Gašpara Fejérpatakyh
 ## Zdroje
 
 - [[Zdroje/PDFka (Lit)/Klasicizmus a Osvietenstvo/4. dráma - J. Chalupka.pdf]]
-- [[Zdroje/Zmaturuj (Lit)/Klasicizmus a Osvietenstvo/WhatsApp Image 2026-10-15 at 12.52.50 (1).jpeg]]
+- [[Zdroje/Zmaturuj (Lit)/Klasicizmus a Osvietenstvo/49_Slovenske-osvietenstvo-klasicizmus.jpeg]]

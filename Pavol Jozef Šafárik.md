@@ -37,4 +37,4 @@ Súvislosti: [[Ján Kollár]], [[Slovenské národné obrodenie]].
 ## Zdroje
 
 - [[Zdroje/PDFka (Lit)/Klasicizmus a Osvietenstvo/Etapy  SNO.pdf]]
-- [[Zdroje/Zmaturuj (Lit)/Klasicizmus a Osvietenstvo/WhatsApp Image 2026-10-15 at 12.52.49 (3).jpeg]]
+- [[Zdroje/Zmaturuj (Lit)/Klasicizmus a Osvietenstvo/47_Slovenske-osvietenstvo-klasicizmus.jpeg]]
