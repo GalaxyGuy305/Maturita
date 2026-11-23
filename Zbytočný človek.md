@@ -15,6 +15,7 @@ obdobie:
 - [[Alexander Sergejevič Puškin]] – **Onegin** v [[Eugen Onegin|Eugenovi Oneginovi]]: znechutený prázdnym životom, odmietne Tatianinu lásku a pozná ju príliš neskoro.
 - [[Michail Jurjevič Lermontov]] – **Pečorin** v *Hrdinovi našich čias*: spoločenský vydedenec z vlastnej vôle, márne hľadá zmysel svojej existencie.
 - [[Ivan Sergejevič Turgenev]] – **Rudin**: vzdelaný, ale nedokáže bojovať za svoju lásku; zomiera na parížskych barikádach.
+- **Slovenský realizmus:** [[Svetozár Hurban Vajanský]] – román *Kotlín*: zeman **Lutišič** ako zbytočný človek, ktorý už nenájde uplatnenie v živote.
 
 ## Súvislosti
 
@@ -26,3 +27,4 @@ Romantický rozorvaný hrdina ([[Titanizmus]]) → realistický typ ([[Charakter
 - [[Zdroje/Zmaturuj (Lit)/Romantizmus/55_Svetovy-romantizmus.jpg]]
 - [[Zdroje/Zmaturuj (Lit)/Romantizmus/56_Svetovy-romantizmus.jpg]]
 - [[Zdroje/Zmaturuj (Lit)/Realizmus/75_Svetovy-realizmus.jpg]]
+- [[Zdroje/Zmaturuj (Lit)/Realizmus/80_Slovensky-realizmus.jpg]]

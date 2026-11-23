@@ -4,9 +4,10 @@ categories:
 aliases:
   - "Realistická literatúra"
   - "Kritický realizmus"
-roky: "Európa: polovica 19. st. (2. pol. 19. st.); slovenská literatúra: CHÝBA"
+roky: "Európa: polovica 19. st. (2. pol. 19. st.); slovenská literatúra: 1880 – 1918 (1. vlna 1880 – 1900, 2. vlna 1900 – 1918)"
 celky:
   - "[[Európska realistická literatúra]]"
+  - "[[Slovenská realistická literatúra]]"
 diela:
   - "[[Otec Goriot]]"
   - "[[Kronika Pickwickovho klubu]]"
@@ -16,6 +17,18 @@ diela:
   - "[[Zločin a trest]]"
   - "[[Mŕtve duše]]"
   - "[[Vojna a mier]]"
+  - "[[Suchá ratolesť]]"
+  - "[[Hájnikova žena]]"
+  - "[[Ežo Vlkolinský]]"
+  - "[[Krvavé sonety]]"
+  - "[[Rysavá jalovica]]"
+  - "[[Neprebudený]]"
+  - "[[Keď báčik z Chochoľova umrie]]"
+  - "[[Dom v stráni]]"
+  - "[[Ťapákovci]]"
+  - "[[Maco Mlieč]]"
+  - "[[Apoliena]]"
+  - "[[Statky-zmätky]]"
 autory:
   - "[[Honoré de Balzac]]"
   - "[[Stendhal]]"
@@ -30,31 +43,38 @@ autory:
   - "[[Lev Nikolajevič Tolstoj]]"
   - "[[Fiodor Michajlovič Dostojevskij]]"
   - "[[Anton Pavlovič Čechov]]"
+  - "[[Svetozár Hurban Vajanský]]"
+  - "[[Pavol Országh Hviezdoslav]]"
+  - "[[Martin Kukučín]]"
+  - "[[Božena Slančíková Timrava]]"
+  - "[[Jozef Gregor Tajovský]]"
+  - "[[Ľudmila Podjavorinská]]"
 žánre:
   - "[[Román]]"
   - "[[Psychologický román]]"
   - "[[Novela]]"
   - "[[Komédia]]"
   - "[[Pikareskný román]]"
+  - "[[Poviedka]]"
+  - "[[Lyrickoepická skladba]]"
+  - "[[Epos]]"
+  - "[[Sonet]]"
 pojmy:
   - "[[Pozitivizmus]]"
   - "[[Naturalizmus]]"
   - "[[Charakterový typ postavy]]"
   - "[[Zbytočný človek]]"
+  - "[[Sylabotonický veršový systém]]"
 ---
-Európa: polovica 19. st. (2. pol. 19. st.); slovenská literatúra: CHÝBA
-
-> [!danger] ⚠️ CHÝBA SLOVENSKÁ ČASŤ REALIZMU
-> Táto poznámka pokrýva **iba európsky (svetový) realizmus**. **Slovenský realizmus zatiaľ vôbec nie je spracovaný** – chýba celok, diela aj autori.
->
-> - Requirementy pre SVK realizmus zatiaľ nie sú dopísané (`7. SVK: …`).
-> - V Zdrojoch už sú materiály: [[Zdroje/Zmaturuj (Lit)/Realizmus/79_Slovensky-realizmus.jpg|Zmaturuj s. 79 – 86]] a PDFká v `Zdroje/PDFka (Lit)/Realizmus/Slovenský` (Hviezdoslav, Kukučín, Timrava, Tajovský, Vajanský, úvod a znaky slovenského realizmu).
+Európa: polovica 19. st. (2. pol. 19. st.); slovenská literatúra: 1880 – 1918 (1. vlna 1880 – 1900, 2. vlna 1900 – 1918)
 
 ## Úvod
 
 **Realizmus** (z lat. *realis* – vecný, skutočný) je umelecký smer a zároveň **metóda**, ktorá sa uplatňuje **od polovice 19. storočia** a v priebehu 20. storočia. Zakladá sa na **kritickom poznávaní skutočnosti** a vychádza z **pravdivého zobrazenia ľudskej osobnosti** s jej rozmanitými vzťahmi k realite. V širšom zmysle je to tendencia (metóda) zobrazenia skutočnosti, v užšom zmysle umelecký smer, ktorý sa usiluje podať **čo najvernejší obraz skutočnosti**.
 
 V 2. polovici 19. st. nadobúda prevahu nad [[Romantizmus|romantizmom]]. Realistické tendencie sa objavujú už súbežne s romantizmom (napr. [[Alexander Sergejevič Puškin|Puškin]], [[Stendhal]]), preto sa v dielach niektorých autorov **miešajú rysy oboch smerov**. **Kritický realizmus** je najvýraznejšia odroda realizmu so zosilneným rysom kritickosti. Prejavuje sa vo všetkých európskych literatúrach, ale nie súčasne, a **neformoval sa ako jednotná literárna škola**.
+
+Do **slovenskej literatúry** prichádza realizmus s **časovým posunom** (približne **1880 – 1918**). Za jeho nástup sa považuje zbierka *Tatry a more* (1879) S. H. Vajanského; delí sa na **1. vlnu – opisný realizmus (1880 – 1900)** a **2. vlnu – kritický realizmus (1900 – 1918)**. Pozri [[Slovenská realistická literatúra]].
 
 > [!info] Značenie
 > ⭐ = povinné podľa [[Requirementy/Requirementy|requirementov]]. ✏️ = ručne označené v Zmaturuj; značky sú len orientačné. 🤖 = informácia od AI. 💻 = informácia z webu mimo našich zdrojov.
@@ -81,6 +101,11 @@ V 2. polovici 19. st. nadobúda prevahu nad [[Romantizmus|romantizmom]]. Realist
 - dôraz na **drobnokresbu a realistický detail**, dôkladná znalosť prostredia
 - v záverečnej fáze prerastá do vedeckého skúmania reality → **[[Naturalizmus|naturalizmus]]**
 
+**Slovenský realizmus (podrobne v [[Slovenská realistická literatúra]])**
+
+- **1. vlna (opisná):** [[Sylabotonický veršový systém|sylabotonika]], veľké lyrické cykly a lyrickoepické skladby; v próze kresba, črta, poviedka, novela, román; **vonkajší pohľad**, idealizácia (čistota a neskazenosť ľudu), téma **zemianstva**; dráma najmenej rozvinutá
+- **2. vlna (kritická):** **vnútorný život a sociálna situácia** človeka, neprikrášlený obraz najnižších vrstiev, psychika jednotlivca, rozvoj drámy (ľudová reč, realistické charaktery)
+
 | Romantizmus | Realizmus |
 | --- | --- |
 | cit, fantázia, subjektivizmus | rozum, objektívnosť, pozorovanie |
@@ -102,7 +127,12 @@ V 2. polovici 19. st. nadobúda prevahu nad [[Romantizmus|romantizmom]]. Realist
 | ⭐ [[Zločin a trest]] | [[Fiodor Michajlovič Dostojevskij]] | [[Psychologický román]] | Rusko |
 | ⭐ ďalší ruskí autori | [[Nikolaj Vasilievič Gogoľ]], [[Ivan Sergejevič Turgenev]], [[Anton Pavlovič Čechov]] | pozri [[Európska realistická literatúra]] | Rusko |
 | [[Mŕtve duše]], [[Vojna a mier]] | Gogoľ, Tolstoj | nepovinné, máme k nim PDF | Rusko |
-| ⚠️ **Slovenský realizmus** | – | **CHÝBA** | Slovensko |
+| ⭐ [[Suchá ratolesť]] | [[Svetozár Hurban Vajanský]] | [[Román\|román]] | Slovensko (1. vlna) |
+| ⭐ [[Hájnikova žena]], [[Ežo Vlkolinský]], [[Krvavé sonety]] | [[Pavol Országh Hviezdoslav]] | [[Lyrickoepická skladba\|lyrickoepická skladba]], [[Epos\|epos]], [[Sonet\|sonety]] | Slovensko (1. vlna) |
+| ⭐ [[Rysavá jalovica]], [[Neprebudený]], [[Keď báčik z Chochoľova umrie]], [[Dom v stráni]] | [[Martin Kukučín]] | [[Poviedka\|poviedky]], sociálny [[Román\|román]] | Slovensko (1. vlna) |
+| ⭐ [[Ťapákovci]] | [[Božena Slančíková Timrava]] | [[Poviedka\|poviedka]] | Slovensko (2. vlna) |
+| ⭐ [[Maco Mlieč]], [[Apoliena]], [[Statky-zmätky]] | [[Jozef Gregor Tajovský]] | [[Poviedka\|poviedky]], sociálna dráma | Slovensko (2. vlna) |
+| ⭐ autorka – bez povinného diela | [[Ľudmila Podjavorinská]] | poézia pre deti, novely | Slovensko (2. vlna) |
 
 Pri diele: **autor, žáner, obdobie, myšlienka, postavy, dej a kompozícia**. Requirementy chcú pri FR a RUS „ďalších 5 mien a diel zo Zmaturuj“; Zmaturuj ich má menej (FR 4, RUS 3), preto sú spracovaní všetci.
 
@@ -124,13 +154,38 @@ Pri diele: **autor, žáner, obdobie, myšlienka, postavy, dej a kompozícia**. 
 | 1885 | *Germinal* ([[Émile Zola\|Zola]]), *Miláčik* ([[Guy de Maupassant\|Maupassant]]) 💻 |
 | 1904 | *Višňový sad* ([[Anton Pavlovič Čechov\|Čechov]], premiéra) 🤖 |
 
+**Slovenský realizmus**
+
+| Čas | Udalosť / autor |
+| --- | --- |
+| 1871 | almanach *Napred* (Hviezdoslav, Banšell) |
+| 1874 – 1875 | zrušenie troch slovenských gymnázií a Matice slovenskej |
+| 1879 | *Tatry a more* ([[Svetozár Hurban Vajanský\|Vajanský]]) – nástup realizmu |
+| 1880 | *Kritické listy* (Vajanský, Škultéty) v Orle |
+| 1881 | obnovené *Slovenské pohľady* |
+| 1882 | spolok Detvan v Prahe |
+| 1884 | [[Suchá ratolesť]] (Vajanský) |
+| 1885 | [[Rysavá jalovica]] ([[Martin Kukučín\|Kukučín]]) |
+| 1886 | [[Hájnikova žena]] ([[Pavol Országh Hviezdoslav\|Hviezdoslav]]), [[Neprebudený]] (Kukučín) |
+| 1890 | [[Keď báčik z Chochoľova umrie]] (Kukučín), [[Ežo Vlkolinský]] (Hviezdoslav) 💻 |
+| 1898 – 1904 | časopis *Hlas* (hlasisti) |
+| 1903 | [[Maco Mlieč]], [[Apoliena]] ([[Jozef Gregor Tajovský\|Tajovský]]) |
+| 1903 – 1904 | [[Dom v stráni]] (Kukučín) |
+| 1909 | [[Statky-zmätky]] (Tajovský) 💻 |
+| 1914 | [[Ťapákovci]] ([[Božena Slančíková Timrava\|Timrava]]); [[Krvavé sonety]] napísané (vyšli 1919) |
+| 1918 | *Hrdinovia* (Timrava); koniec 2. vlny |
+
 ## Súvislosti
 
-[[Romantizmus]] → **Realizmus**. Prvé znaky realizmu sú už u Defoa a Swifta ([[Európska klasicistická a osvietenská literatúra]]). Ruský realizmus nadväzuje na [[Alexander Sergejevič Puškin|Puškina]] a [[Michail Jurjevič Lermontov|Lermontova]] (typ [[Zbytočný človek|zbytočného človeka]]). Na Slovensku realizmus pripravuje [[Postromantizmus]] (*znaky nastupujúceho realizmu*).
+[[Romantizmus]] → **Realizmus**. Prvé znaky realizmu sú už u Defoa a Swifta ([[Európska klasicistická a osvietenská literatúra]]). Ruský realizmus nadväzuje na [[Alexander Sergejevič Puškin|Puškina]] a [[Michail Jurjevič Lermontov|Lermontova]] (typ [[Zbytočný človek|zbytočného človeka]]). Na Slovensku realizmus pripravuje [[Postromantizmus]] (*znaky nastupujúceho realizmu*); po ňom nasleduje [[Moderna]] (Krasko a Jesenský majú aj realistické prvky).
 
 ## Zdroje
 
 - [[Zdroje/PDFka (Lit)/Realizmus/Európsky/k realizmu.pdf]]
 - [[Zdroje/Zmaturuj (Lit)/Realizmus/71_Svetovy-realizmus.jpg]]
 - [[Zdroje/Zmaturuj (Lit)/Realizmus/72_Svetovy-realizmus.jpg]]
+- [[Zdroje/PDFka (Lit)/Realizmus/Slovenský/slov real - úvod.pdf]]
+- [[Zdroje/PDFka (Lit)/Realizmus/Slovenský/znaky slov. realizmu.pdf]]
+- [[Zdroje/Zmaturuj (Lit)/Realizmus/79_Slovensky-realizmus.jpg]]
+- [[Zdroje/Zmaturuj (Lit)/Realizmus/80_Slovensky-realizmus.jpg]]
 - 💻 [Timeline – Russian literature (uOttawa)](https://aix1.uottawa.ca/~jdclayt/Overheads/rus2102_Timeline.doc), [222 Greatest Works of French Literature](https://www.editoreric.com/greatlit/greatest-French-literature.html), [Jane Eyre – Encyclopedia.com](https://www.encyclopedia.com/arts/encyclopedias-almanacs-transcripts-and-maps/jane-eyre), [Wuthering Heights – Encyclopedia.com](https://www.encyclopedia.com/arts/encyclopedias-almanacs-transcripts-and-maps/wuthering-heights)

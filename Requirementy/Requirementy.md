@@ -54,7 +54,44 @@ Co potrebujeme vediet z literatury (Toto su dvolezite veci, nie vsetko):
 	5. rus. Zlocin a Trest (Dostojevskij)
 	6. rus. (Dalsich 5 mien a meno ich diel z knihy zmaturuj)
 	7. SVK:
-		1. ...
+		1. vlna:
+			1. Svetozar Hurban Vajansky (Sucha ratolest)
+			2. Pavol Orszagh Hviezdoslav (Hajnikova zena, Ezo Vlkolinsky, Krvave sonety)
+			3. Martin Kukucin (Rysava jalovica , Ked bacik z Chocholova umrie, Neprebudeny, Dom v strani)
+		2. vlna:
+			1. Bozena Slancikova Timrava (Tapakovci)
+			2. Jozef Gregor Tajovsky (Maco Mliec, Apoliena, Statky-zmatky)
+			3. Ludmila Podjavorinska (Nema povinne dielo na spracovanie)
+8. Moderna:
+	1. Charles Baudelaire (Kvety zla)
+	2. Paul Verlaine (Nema povinne dielo na spracovanie)
+	3. Jean Arthur Rimbaud (Iluminacie)
+	4. SVK:
+		1. Ivan Krasko (Nox et solitudo)
+		2. Janko Jesensky (Demokrati)
+...
+
+[Netusim ci to ma byt 12, ale neviem a je mi to jedno]
+12. Svetova lit. 2. pol. 20. storocia:
+	1. Americka literatura:
+		1. Allen Ginsberg (Vytie a ine basne)
+		2. Lawrence Ferlinghetti (Vychadzanie zo San Franciska)
+		3. Jack Kerouac (Na Ceste)
+		4. Jerome David Salinger (Kto chyta v Zite)
+		5. Joseph Heller (Hlava 22)
+		6. William Styron (Sophiina Volba)
+	2. Francuzska literatura:
+		1. Jean paul Sartre (Mur)
+		2. Albert Camus
+	3. Anglicka literatura:
+		1. George Orwell (Farma Zvierat, 1984)
+	4. Svajciarska literatura:
+		1. Friedrich Durrenmatt (Fyzici)
+	5. Irska literatura:
+		1. Samuel Beckett (Cakanie na Godota)
+13. Postmoderna:
+	1. Umberto Eco (Meno Ruze)
+	...
 ...
 
 Co potrebujeme vediet o diele (dvolezite veci):

@@ -5,9 +5,12 @@ druh: Lyrika
 obdobie:
   - "[[Humanizmus a Renesancia]]"
   - "[[Klasicizmus a Osvietenstvo]]"
+  - "[[Realizmus]]"
+  - "[[Moderna]]"
 diela:
   - "[[Sonety pre Lauru]]"
   - "[[Slávy dcéra]]"
+  - "[[Krvavé sonety]]"
 ---
 
 ## Charakteristika
@@ -27,7 +30,13 @@ diela:
 - [[Ján Kollár]] – **[[Slávy dcéra]]**: ľúbostné, vlastenecké a náučné sonety (znelky) v piatich spevoch rozšíreného vydania.
 - **Sonety sú sylabotonické; Předzpěv je časomerná elégia**, nie sonet. Pozri [[Časomerný veršový systém]].
 
+## Realizmus a moderna
+
+- [[Pavol Országh Hviezdoslav]] – spolu s Kollárom **priekopník sonetu** v slovenskej literatúre; zbierka *Sonety* (21 zneliek) a ⭐ **[[Krvavé sonety]]** – 32 protivojnových sonetov v úprave **4 + 4 + 6**.
+- [[Janko Jesenský]] – vo forme používal aj sonet ([[Slovenská moderna]]).
+
 ## Zdroje
 
 - [[Zdroje/PDFka (Lit)/Klasicizmus a Osvietenstvo/KOLLÁR.pdf]]
 - [[Zdroje/Zmaturuj (Lit)/Klasicizmus a Osvietenstvo/48_Slovenske-osvietenstvo-klasicizmus.jpeg]]
+- [[Zdroje/PDFka (Lit)/Realizmus/Slovenský/Pavol Országh Hviezdoslav/POH - KS.pdf]]

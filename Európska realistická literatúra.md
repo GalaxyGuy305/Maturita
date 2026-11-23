@@ -21,8 +21,7 @@ diela:
 
 Svetový realizmus sa rozvíja v 2. polovici 19. storočia, najvýraznejšie vo **Francúzsku, Anglicku a Rusku**. Na maturitu sú hlavné **[[Otec Goriot]] (Balzac), [[Kronika Pickwickovho klubu]] (Dickens), sestry Brontëové, [[Anna Kareninová]] (Tolstoj) a [[Zločin a trest]] (Dostojevskij)** a mená ďalších francúzskych a ruských autorov s ich dielami.
 
-> [!danger] ⚠️ Slovenský realizmus chýba
-> Slovenská časť realizmu ešte **nie je spracovaná**. Pozri varovanie v [[Realizmus]].
+Slovenská časť: [[Slovenská realistická literatúra]].
 
 ## Znaky
 

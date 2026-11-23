@@ -25,6 +25,9 @@ V [[Realizmus|realizme]] postava **reprezentuje svoju spoločenskú vrstvu** –
 - [[Otec Goriot]]: Goriot – obetavý otec zneužívaný dcérami; Rastignac – ctižiadostivý kariérista; Vautrin – spoločenské zlo.
 - [[Mŕtve duše]]: statkári ako typy mravnej deformácie, **hovoriace mená** (Pľuškin = plesnivec, Sobakevič = psovec).
 - Typ [[Zbytočný človek|zbytočného človeka]] v ruskej literatúre.
+- [[Dom v stráni]] (Kukučín): **sociálne typy** – sedliak Mate Berac, statkárka šora Anzula, podnikateľ Zandome.
+- [[Keď báčik z Chochoľova umrie]]: **hovoriace mená** – Domanický (doma nič nemá), Tráva (prispôsobivý „ako tráva vo vetre“).
+- [[Ťapákovci]] (Timrava): názov **zľudovel** ako symbol lenivosti a zaostalosti.
 
 ## Zdroje
 
@@ -33,3 +36,4 @@ V [[Realizmus|realizme]] postava **reprezentuje svoju spoločenskú vrstvu** –
 - [[Zdroje/PDFka (Lit)/Klasicizmus a Osvietenstvo/4. dráma - J. Chalupka.pdf]]
 - [[Zdroje/PDFka (Lit)/Realizmus/Európsky/k realizmu.pdf]]
 - [[Zdroje/Zmaturuj (Lit)/Realizmus/71_Svetovy-realizmus.jpg]]
+- [[Zdroje/PDFka (Lit)/Realizmus/Slovenský/Martin Kukučín/M. Kukučín - o dielach.pdf]]

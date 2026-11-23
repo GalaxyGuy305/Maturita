@@ -9,11 +9,13 @@ druh: Lyrika a epika
 obdobie:
   - "[[Klasicizmus a Osvietenstvo]]"
   - "[[Romantizmus]]"
+  - "[[Realizmus]]"
 diela:
   - "[[Slávy dcéra]]"
   - "[[Mor ho!]]"
   - "[[Smrť Jánošíkova]]"
   - "[[Marína]]"
+  - "[[Hájnikova žena]]"
 ---
 
 ## Charakteristika
@@ -30,8 +32,14 @@ diela:
 - [[Andrej Sládkovič]] – [[Marína]] (lyrická skladba), *Detvan* (5 spevov).
 - Svet: Byron – *Childe Haroldova púť*, Puškin – *Kaukazský zajatec, Cigáni*, Mácha – *Máj*. Pozri [[Európska romantická literatúra]].
 
+## Realizmus
+
+- V **1. vlne slovenského realizmu** sú typické **veľké lyrické cykly a lyrickoepické skladby** ([[Slovenská realistická literatúra]]).
+- [[Pavol Országh Hviezdoslav]] – ⭐ **[[Hájnikova žena]]**: 18 spevov, kontrast ľud × šľachta, opisy prírody, reflexie a piesňové vložky.
+
 ## Zdroje
 
 - [[Zdroje/Zmaturuj (Lit)/Romantizmus/52_Svetovy-romantizmus.jpg]]
 - [[Zdroje/Zmaturuj (Lit)/Romantizmus/62_Slovensky-romantizmus.jpg]]
 - [[Zdroje/Zmaturuj (Lit)/Romantizmus/64_Slovensky-romantizmus.jpg]]
+- [[Zdroje/PDFka (Lit)/Realizmus/Slovenský/Pavol Országh Hviezdoslav/POH - Hájnikova žena.pdf]]

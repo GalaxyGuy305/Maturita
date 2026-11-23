@@ -42,6 +42,9 @@ diela:
 - **Ctibor** – balada o bezohľadnom pánovi Beckova, ktorý znesvätil nedeľu poľovačkou.
 - **Margita a Besná** – balada: vydajachtivá vdova zo žiarlivosti sotí peknú nevlastnú dcéru zo skaly do Váhu; pod ťarchou výčitiek („Hojže, bože, prebože, takto to byť nemôže!“) sa pomätie a skočí do Váhu na tom istom mieste.
 
+> [!note] Ivan Krasko
+> Básnik slovenskej moderny [[Ivan Krasko]] sa vlastným menom volal tiež **Ján Botto** a bol jeho **vzdialeným príbuzným**.
+
 ## Zdroje
 
 - [[Zdroje/PDFka (Lit)/Romantizmus/Slovenský/Ján Botto/JB - Zlta lalia.pdf]]
@@ -49,3 +52,4 @@ diela:
 - [[Zdroje/PDFka (Lit)/Romantizmus/Slovenský/Ján Botto/JB - Margita a Besná.pdf]]
 - [[Zdroje/Zmaturuj (Lit)/Romantizmus/64_Slovensky-romantizmus.jpg]]
 - [[Zdroje/Zmaturuj (Lit)/Romantizmus/65_Slovensky-romantizmus.jpg]]
+- [[Zdroje/Zmaturuj (Lit)/Slovenská moderna/90_Slovenska-literarna-moderna.jpg]]

@@ -24,6 +24,9 @@ diela:
   - "[[Zločin a trest]]"
   - "[[Mŕtve duše]]"
   - "[[Vojna a mier]]"
+  - "[[Suchá ratolesť]]"
+  - "[[Dom v stráni]]"
+  - "[[Demokrati]]"
 ---
 
 ## Charakteristika
@@ -59,6 +62,7 @@ diela:
 - **Psychologický román:** [[Fiodor Michajlovič Dostojevskij]] – ⭐ [[Zločin a trest]].
 - **Románová epopeja:** Tolstoj – [[Vojna a mier]]. **Satirický román** s pikaresknou stavbou: Gogoľ – [[Mŕtve duše]].
 - **Experimentálny (naturalistický) román:** [[Émile Zola]] – pozri [[Naturalizmus]].
+- **Slovenský realizmus:** v 1. vlne je román **vrcholom tvorivého úsilia** – [[Svetozár Hurban Vajanský]] – ⭐ [[Suchá ratolesť]]; [[Martin Kukučín]] – ⭐ [[Dom v stráni]] (sociálny román); Terézia Vansová – *Sirota Podhradských* (prvý román slovenskej ženy). Neskôr [[Janko Jesenský]] – ⭐ [[Demokrati]] (satirický román). Pozri [[Slovenská realistická literatúra]].
 
 ## Zdroje
 
@@ -72,3 +76,5 @@ diela:
 - [[Zdroje/PDFka (Lit)/Realizmus/Európsky/k realizmu.pdf]]
 - [[Zdroje/PDFka (Lit)/Realizmus/Európsky/Honoré de Balzac/H d Balzac + Otec Goriot.pdf]]
 - [[Zdroje/Zmaturuj (Lit)/Realizmus/71_Svetovy-realizmus.jpg]]
+- [[Zdroje/Zmaturuj (Lit)/Realizmus/80_Slovensky-realizmus.jpg]]
+- [[Zdroje/PDFka (Lit)/Realizmus/Slovenský/Martin Kukučín/M. Kukučín - o dielach.pdf]]

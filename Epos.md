@@ -8,6 +8,7 @@ obdobie:
   - "[[Humanizmus a Renesancia]]"
   - "[[Barok]]"
   - "[[Klasicizmus a Osvietenstvo]]"
+  - "[[Realizmus]]"
 diela:
   - "[[Epos o Gilgamešovi]]"
   - "[[Ilias]]"
@@ -18,6 +19,7 @@ diela:
   - "[[Stratený raj]]"
   - "[[Raj znovu nájdený]]"
   - "[[Svatopluk]]"
+  - "[[Ežo Vlkolinský]]"
 ---
 
 ## Charakteristika
@@ -47,8 +49,13 @@ diela:
 - **[[Časomerný veršový systém|Časomerný hexameter]]**, propozícia, invokácia, epická šírka, výpočet bojovníkov, boje, epizódy a nadprirodzené zásahy.
 - [[Svatopluk]] má **12 spevov**, múzu **Umku** a začína sa **in medias res**. Umelecký príbeh o Veľkej Morave podporuje národné obrodenie.
 
+## Slovenský realizmus
+
+- [[Pavol Országh Hviezdoslav]] – ⭐ **[[Ežo Vlkolinský]]** a **Gábor Vlkolinský**: eposy zo súčasného dedinského života (zemania × sedliaci) – už nie o hrdinoch a bohoch, ale o obyčajných ľuďoch.
+
 ## Zdroje
 
 - [[Zdroje/PDFka (Lit)/Klasicizmus a Osvietenstvo/5. epos v K.pdf]]
 - [[Zdroje/PDFka (Lit)/Klasicizmus a Osvietenstvo/HOLLÝ.pdf]]
 - [[Zdroje/PDFka (Lit)/Klasicizmus a Osvietenstvo/7+ svatopluk úrývok.pdf]]
+- [[Zdroje/Zmaturuj (Lit)/Realizmus/81_Slovensky-realizmus.jpg]]
