@@ -6,7 +6,7 @@ Tento priečinok je Obsidian vault, ktorý slúži ako materiál a poznámky na 
 
 Vault sa delí na 3 hlavné časti:
 
-1. **`Root\`** – V koreni vaultu sa nachádzajú všetky markdown poznámky. Organizácia je inšpirovaná systémom „self-organizing notes" od Steph Ango (Celestial vault). Namiesto veľa vnorených priečinkov sa vo vaulte naviguje cez properties, Quick Switcher, Obsidian Bases a linky.
+1. **`Root\`** – V koreni vaultu sa nachádzajú všetky markdown poznámky. Organizácia je inšpirovaná systémom „self-organizing notes" od Steph Ango / Celestial vault. Namiesto veľa vnorených priečinkov sa vo vaulte naviguje cez properties, Quick Switcher, Obsidian Bases a linky.
    - Každá poznámka má property `categories`, v ktorej je linknutá centrálna hub poznámka, napr. `[[Literárne Obdobia]]`. V tejto hub poznámke je embednutá Obsidian Base so všetkými poznámkami danej kategórie (napr. so všetkými literárnymi obdobiami).
    - Každá kategória poznámok môže mať aj vlastné custom properties, ktoré slúžia ako bonus.
    - Výhoda tohto systému: na rozdiel od vnorených priečinkov môže mať jedna poznámka viac ako jednu kategóriu.
