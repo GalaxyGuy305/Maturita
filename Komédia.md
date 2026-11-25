@@ -8,11 +8,13 @@ obdobie:
   - "[[Klasicizmus a Osvietenstvo]]"
   - "[[Romantizmus]]"
   - "[[Realizmus]]"
+  - "[[Svetová literatúra 2. polovice 20. storočia]]"
 diela:
   - "[[Komédia o hrnci]]"
   - "[[Lakomec]]"
   - "[[Kocúrkovo]]"
   - "[[Zmierenie alebo Dobrodružstvo pri obžinkoch]]"
+  - "[[Fyzici]]"
 ---
 
 ## Charakteristika
@@ -47,6 +49,10 @@ diela:
 - [[Nikolaj Vasilievič Gogoľ]] – **Revízor**: satirická komédia; úradník Chlestakov je omylom považovaný za revízora, mestskí predstavitelia ho hostia a podplácajú; hra končí **nemou scénou**, keď príde skutočný revízor.
 - Gerhart Hauptmann – *Bobrí kožuch*. Pozri [[Európska realistická literatúra]].
 
+## Svetová literatúra 2. polovice 20. storočia
+
+- [[Friedrich Dürrenmatt]] – ⭐ [[Fyzici]]: **tragikomická groteska** s prvkami [[Absurdná dráma|absurdnej drámy]]; téma zodpovednosti vedca. Pozri [[Svetová literatúra 2. polovice 20. storočia]].
+
 ## Zdroje
 
 - [[Zdroje/PDFka (Lit)/Postromantizmus/Ján Palárik/JP + zmierenie.pdf]]
@@ -56,3 +62,5 @@ diela:
 - [[Zdroje/PDFka (Lit)/Klasicizmus a Osvietenstvo/2. dráma + Moliere.pdf]]
 - [[Zdroje/PDFka (Lit)/Klasicizmus a Osvietenstvo/4. dráma - J. Chalupka.pdf]]
 - [[Zdroje/Zmaturuj (Lit)/Klasicizmus a Osvietenstvo/42_Europsky-klasicizmus-osvietenstvo.jpeg]]
+- [[Zdroje/PDFka (Lit)/Svetova lit. 2. pol. 20. storocia/Švajčiarska literatúra/Friedrich Dürrenmatt/Durrenmatt.pdf]]
+- [[Zdroje/Zmaturuj (Lit)/Svetova lit. 2. pol. 20. storocia/160_Svetova-literatura-2-pol-20-storocia.jpg]]

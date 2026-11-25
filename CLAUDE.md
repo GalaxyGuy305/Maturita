@@ -39,9 +39,11 @@ Vault sa delí na 3 hlavné časti:
 3. **PDFká majú prednosť pred obyčajným markdownom**, hlavne tie, ktoré hovoria o konkrétnej veci. Napr. ak existuje PDF o Ľudovítovi Štúrovi (čo bude), malo by byť embednuté v poznámke o Štúrovi.
    - Momentálne to tak vo vaulte vôbec nie je, takže sa to bude postupne opravovať.
    - **Túto reorganizáciu nikdy nerob sám.** User musí vždy povedať, aké PDF a čo odstrániť/pridať, prípadne sa ho opýtaj.
+   - **Rozdiel medzi embedom a odkazom:** `![[...pdf]]` (embed PDF do tela poznámky) je reorganizácia, ktorú robí iba user (alebo na jeho výslovný pokyn). Naopak, **odkazy v sekcii `## Zdroje`** (`[[Zdroje/...]]`, bez `!`) sú štandardná súčasť každej poznámky o diele/autorovi/smere/celku – pridávaj ich vždy aj pri nových poznámkach a mieri na konečné cesty súborov v `Zdroje\`. Pokyn „nedávaj embedy" teda neznamená „nedávaj Zdroje".
 4. **Žiadne duplikáty.** Ak vytváraš nejakú „outlier" poznámku (napr. `Epos`), najprv over, či už taká poznámka náhodou neexistuje.
    - Ak neexistuje, vytvor ju a prepoj.
    - Ak existuje, iba do nej doplň relevantné veci, ktoré v nej ešte nie sú, a pridaj na ňu link.
+   - **Dopĺňanie existujúcich poznámok je povinná súčasť každej úlohy s novými dielami/autormi/smermi** (nie voliteľný návrh). Pri každom novom diele, autorovi alebo smere prejdi súvisiace existujúce poznámky (žánre a pojmy ako Román, Novela, Poviedka, Satira, Paródia, Bájka, Psychologický román, Alegória a symbol, Komédia, Filozofický spis; autori súvisiaci cez vplyv, napr. Swift pri Orwellovi; hub poznámky období a celkov) a doplň: property `obdobie` / `diela` (iba ak už kľúč v poznámke existuje), krátku sekciu s novými dielami v štýle danej poznámky (s linkami na nové poznámky) a relevantné odkazy do `## Zdroje`. Nikdy pritom nič nemaž ani nepreformulovávaj – iba pridávaj. Na konci vypíš, ktoré existujúce poznámky si doplnil.
 
 ## Konvencie
 

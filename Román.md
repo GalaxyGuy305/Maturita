@@ -8,6 +8,7 @@ obdobie:
   - "[[Klasicizmus a Osvietenstvo]]"
   - "[[Romantizmus]]"
   - "[[Realizmus]]"
+  - "[[Svetová literatúra 2. polovice 20. storočia]]"
 diela:
   - "[[Don Quijote]]"
   - "[[Dobrodružný Simplicius Simplicissimus]]"
@@ -27,6 +28,13 @@ diela:
   - "[[Suchá ratolesť]]"
   - "[[Dom v stráni]]"
   - "[[Demokrati]]"
+  - "[[Kto chytá v žite]]"
+  - "[[Hlava XXII]]"
+  - "[[Sophiina voľba]]"
+  - "[[Na ceste]]"
+  - "[[Cudzinec]]"
+  - "[[1984]]"
+  - "[[Meno ruže]]"
 ---
 
 ## Charakteristika
@@ -64,6 +72,15 @@ diela:
 - **Experimentálny (naturalistický) román:** [[Émile Zola]] – pozri [[Naturalizmus]].
 - **Slovenský realizmus:** v 1. vlne je román **vrcholom tvorivého úsilia** – [[Svetozár Hurban Vajanský]] – ⭐ [[Suchá ratolesť]]; [[Martin Kukučín]] – ⭐ [[Dom v stráni]] (sociálny román); Terézia Vansová – *Sirota Podhradských* (prvý román slovenskej ženy). Neskôr [[Janko Jesenský]] – ⭐ [[Demokrati]] (satirický román). Pozri [[Slovenská realistická literatúra]].
 
+## Svetová literatúra 2. polovice 20. storočia
+
+- **Psychologický a generačný román:** ⭐ [[Kto chytá v žite]] – [[Jerome David Salinger]], vzbura mladého hrdinu proti svetu dospelých ([[Psychologický román]]); ⭐ [[Sophiina voľba]] – [[William Styron]], psychologický román s postmodernistickými postupmi.
+- **Protivojnový satirický román:** ⭐ [[Hlava XXII]] – [[Joseph Heller]] (pozri [[Satira]]).
+- **Autobiografický román beatnikov:** ⭐ [[Na ceste]] – [[Jack Kerouac]] ([[Beat generation]]).
+- **Existencialistický román:** ⭐ [[Cudzinec]] – [[Albert Camus]] (rozsahom krátky román, Zmaturuj ho nazýva aj novelou; [[Existencializmus]]).
+- **Antiutopický (dystopický) román:** ⭐ [[1984]] – [[George Orwell]].
+- **Postmoderný historický (detektívny) román:** ⭐ [[Meno ruže]] – [[Umberto Eco]] ([[Postmoderna]]). Pozri [[Svetová literatúra 2. polovice 20. storočia]].
+
 ## Zdroje
 
 - [[Zdroje/PDFka (Lit)/Klasicizmus a Osvietenstvo/3. epika - Bajza.pdf]]
@@ -78,3 +95,10 @@ diela:
 - [[Zdroje/Zmaturuj (Lit)/Realizmus/71_Svetovy-realizmus.jpg]]
 - [[Zdroje/Zmaturuj (Lit)/Realizmus/80_Slovensky-realizmus.jpg]]
 - [[Zdroje/PDFka (Lit)/Realizmus/Slovenský/Martin Kukučín/M. Kukučín - o dielach.pdf]]
+- [[Zdroje/PDFka (Lit)/Svetova lit. 2. pol. 20. storocia/Americká literatúra/Jerome David Salinger/Kto chytá v žite - DEJ.pdf]]
+- [[Zdroje/PDFka (Lit)/Svetova lit. 2. pol. 20. storocia/Americká literatúra/William Styron/W. Styron - Sophiina voľba.pdf]]
+- [[Zdroje/PDFka (Lit)/Svetova lit. 2. pol. 20. storocia/Americká literatúra/Joseph Heller/J. Heller - Hlava XXII.pdf]]
+- [[Zdroje/PDFka (Lit)/Svetova lit. 2. pol. 20. storocia/Smery/Beat generation/bg.pdf]]
+- [[Zdroje/PDFka (Lit)/Svetova lit. 2. pol. 20. storocia/Francúzska literatúra/Albert Camus/AC - Cudzinec.pdf]]
+- [[Zdroje/PDFka (Lit)/Svetova lit. 2. pol. 20. storocia/Anglická literatúra/George Orwell/GO - 1984.pdf]]
+- [[Zdroje/PDFka (Lit)/Svetova lit. 2. pol. 20. storocia/Smery/Postmoderna/Umberto Eco/UE - Meno ruže.pdf]]

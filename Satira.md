@@ -7,10 +7,13 @@ obdobie:
   - "[[Humanizmus a Renesancia]]"
   - "[[Barok]]"
   - "[[Klasicizmus a Osvietenstvo]]"
+  - "[[Svetová literatúra 2. polovice 20. storočia]]"
 diela:
   - "[[Lakomec]]"
   - "[[Kocúrkovo]]"
   - "[[Dúverná zmlúva medzi mňíchom a diáblom]]"
+  - "[[Hlava XXII]]"
+  - "[[Zvieracia farma]]"
 ---
 
 ## Charakteristika
@@ -27,9 +30,18 @@ diela:
 - [[Juraj Fándly]] – [[Dúverná zmlúva medzi mňíchom a diáblom]]: kritický dialóg o kláštoroch a reformách.
 - [[Jozef Ignác Bajza]] – epigramy a [[René mládenca príhody a skúsenosti]]; [[Jonathan Swift]] – **Gulliverove cesty**; [[Voltaire]] – **Candide alebo optimizmus**.
 
+## Svetová literatúra 2. polovice 20. storočia
+
+- [[Joseph Heller]] – ⭐ [[Hlava XXII]]: protivojnový satirický román; absurdita vojny a vojenskej byrokracie, čierny humor.
+- [[George Orwell]] – ⭐ [[Zvieracia farma]]: satira a alegória na totalitnú moc (zároveň [[Bájka|bájka]] a [[Paródia|paródia]]). Pozri [[Svetová literatúra 2. polovice 20. storočia]].
+
 ## Zdroje
 
 - [[Zdroje/PDFka (Lit)/Klasicizmus a Osvietenstvo/7. Dramatická tvorba v období klasicizmu - Moliére.docx]]
 - [[Zdroje/PDFka (Lit)/Klasicizmus a Osvietenstvo/4. dráma - J. Chalupka.pdf]]
 - [[Zdroje/PDFka (Lit)/Klasicizmus a Osvietenstvo/8. Klasicizmus, osvietenstvo a národné obrodenie.docx]]
 - [[Zdroje/Zmaturuj (Lit)/Klasicizmus a Osvietenstvo/43_Europsky-klasicizmus-osvietenstvo.jpeg]]
+- [[Zdroje/PDFka (Lit)/Svetova lit. 2. pol. 20. storocia/Americká literatúra/Joseph Heller/J. Heller - Hlava XXII.pdf]]
+- [[Zdroje/PDFka (Lit)/Svetova lit. 2. pol. 20. storocia/Anglická literatúra/George Orwell/GO - Zvieracia farma.pdf]]
+- [[Zdroje/Zmaturuj (Lit)/Svetova lit. 2. pol. 20. storocia/142_Svetova-literatura-2-pol-20-storocia.jpg]]
+- [[Zdroje/Zmaturuj (Lit)/Svetova lit. 2. pol. 20. storocia/155_Svetova-literatura-2-pol-20-storocia.jpg]]

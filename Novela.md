@@ -6,10 +6,13 @@ obdobie:
   - "[[Humanizmus a Renesancia]]"
   - "[[Romantizmus]]"
   - "[[Realizmus]]"
+  - "[[Svetová literatúra 2. polovice 20. storočia]]"
 diela:
   - "[[Dekameron]]"
   - "[[Kapitánova dcéra]]"
   - "[[Ťapákovci]]"
+  - "[[Zvieracia farma]]"
+  - "[[Cudzinec]]"
 ---
 
 ## Charakteristika
@@ -37,6 +40,11 @@ diela:
 - **Slovenský realizmus:** [[Božena Slančíková Timrava]] – *Bez hrdosti* (novela), [[Ťapákovci]] (školské PDF ju volá novela, Zmaturuj poviedka); [[Svetozár Hurban Vajanský]] – *Letiace tiene*; [[Ľudmila Podjavorinská]] – *Žena, Ondráš, V otroctve*. Pozri [[Slovenská realistická literatúra]].
 - **Moderna:** [[Janko Jesenský]] – *Bozk, Otroci, Koniec lásky, Slovo lásky* (novoromantické novely).
 
+## Svetová literatúra 2. polovice 20. storočia
+
+- ⭐ [[Zvieracia farma]] – [[George Orwell]]: **politická novela** (školské PDF; Zmaturuj ju volá románom), zároveň alegorická [[Bájka|bájka]] a [[Satira|satira]] na totalitnú moc.
+- ⭐ [[Cudzinec]] – [[Albert Camus]]: rozsahom krátky román, ktorý Zmaturuj nazýva **novelou** ([[Existencializmus]]). Pozri [[Svetová literatúra 2. polovice 20. storočia]].
+
 ## Zdroje
 
 - [[Zdroje/PDFka (Lit)/Romantizmus/Európsky/Alexander Sergejevič Puškin/puškin 1.pdf]]
@@ -46,3 +54,7 @@ diela:
 - [[Zdroje/Zmaturuj (Lit)/Romantizmus/65_Slovensky-romantizmus.jpg]]
 - [[Zdroje/Zmaturuj (Lit)/Postromantizmus/69_Romantizmus-zaciatok-realizmu.jpg]]
 - [[Zdroje/Zmaturuj (Lit)/Realizmus/84_Slovensky-realizmus.jpg]]
+- [[Zdroje/PDFka (Lit)/Svetova lit. 2. pol. 20. storocia/Anglická literatúra/George Orwell/GO - Zvieracia farma.pdf]]
+- [[Zdroje/PDFka (Lit)/Svetova lit. 2. pol. 20. storocia/Francúzska literatúra/Albert Camus/AC - Cudzinec.pdf]]
+- [[Zdroje/Zmaturuj (Lit)/Svetova lit. 2. pol. 20. storocia/145_Svetova-literatura-2-pol-20-storocia.jpg]]
+- [[Zdroje/Zmaturuj (Lit)/Svetova lit. 2. pol. 20. storocia/155_Svetova-literatura-2-pol-20-storocia.jpg]]

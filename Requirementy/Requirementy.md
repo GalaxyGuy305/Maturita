@@ -71,7 +71,7 @@ Co potrebujeme vediet z literatury (Toto su dvolezite veci, nie vsetko):
 		2. Janko Jesensky (Demokrati)
 ...
 
-[Netusim ci to ma byt 12, ale neviem a je mi to jedno]
+(Cislo 12 je zatial iba tip. Neviem presne kolkate je to v poradi lebo sme nuteni sa naucit tento skip)
 12. Svetova lit. 2. pol. 20. storocia:
 	1. Americka literatura:
 		1. Allen Ginsberg (Vytie a ine basne)
@@ -82,16 +82,18 @@ Co potrebujeme vediet z literatury (Toto su dvolezite veci, nie vsetko):
 		6. William Styron (Sophiina Volba)
 	2. Francuzska literatura:
 		1. Jean paul Sartre (Mur)
-		2. Albert Camus
+		2. Albert Camus (Cudzinec)
 	3. Anglicka literatura:
 		1. George Orwell (Farma Zvierat, 1984)
 	4. Svajciarska literatura:
 		1. Friedrich Durrenmatt (Fyzici)
 	5. Irska literatura:
 		1. Samuel Beckett (Cakanie na Godota)
-13. Postmoderna:
-	1. Umberto Eco (Meno Ruze)
-	...
+	6. Skupiny ako beatnici / AYM a take nech je vyznacene
+	7. Postmoderna:
+		1. Umberto Eco (Meno Ruze)
+		2. Znaky a taky bs z pdfka
+	8. Smery (Existencializmus)
 ...
 
 Co potrebujeme vediet o diele (dvolezite veci):

@@ -26,10 +26,11 @@ diela:
 - **Štyri diely:** krajina trpaslíkov **Liliput**, krajina obrov **Brobdingnag**, ďalšie fantastické krajiny vrátane lietajúcej **Laputy**, krajina múdrych koní **Hvajninimov**.
 - Gulliver je **lodný lekár a cestovateľ**. Zmenená perspektíva a fantastické prostredie nastavujú zrkadlo ľudskej spoločnosti.
 
-Súvislosti: [[Satira]], [[Paródia]], [[Alegória a symbol]].
+Súvislosti: [[Satira]], [[Paródia]], [[Alegória a symbol]]; v románe [[1984]] sa Swiftove diela prekladajú do novovravy, [[Zvieracia farma]] je alegorická satira pripomínajúca *Gulliverove cesty*.
 
 ## Zdroje
 
 - [[Zdroje/PDFka (Lit)/Klasicizmus a Osvietenstvo/1. klasicizmus + osvietenstvo + rac..pdf]]
 - [[Zdroje/Zmaturuj (Lit)/Klasicizmus a Osvietenstvo/43_Europsky-klasicizmus-osvietenstvo.jpeg]]
 - [[Zdroje/Tahak (Lit)/Klasicizmus a Osvietenstvo/15_Klasicisticka-literatura.jpeg]]
+- [[Zdroje/PDFka (Lit)/Svetova lit. 2. pol. 20. storocia/Anglická literatúra/George Orwell/GO - 1984.pdf]]
